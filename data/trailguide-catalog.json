@@ -1,0 +1,5502 @@
+{
+  "currency": "INR",
+  "synthetic": true,
+  "listing_count": 180,
+  "products": [
+    {
+      "id": 1,
+      "category": "hiking footwear",
+      "name": "Waterproof hiking boots",
+      "color": "black",
+      "price": 4200,
+      "features": [
+        "waterproof",
+        "ankle support"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        11
+      ],
+      "stock": 4,
+      "sku": "TG-001",
+      "brand": "Ridgecraft",
+      "weight_g": 920,
+      "material": "Ripstop nylon and rubber",
+      "warranty": "12 months",
+      "specification": "Waterproof membrane",
+      "use_case": "Moderate trails and wet conditions",
+      "returns": "30 days for unused items",
+      "image": "/static/products/001.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 2,
+      "review": "Liked the waterproof design on my first use."
+    },
+    {
+      "id": 2,
+      "category": "hiking footwear",
+      "name": "Waterproof hiking boots",
+      "color": "navy",
+      "price": 4300,
+      "features": [
+        "waterproof",
+        "ankle support"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        10,
+        11
+      ],
+      "stock": 5,
+      "sku": "TG-002",
+      "brand": "Ridgecraft",
+      "weight_g": 920,
+      "material": "Ripstop nylon and rubber",
+      "warranty": "12 months",
+      "specification": "Waterproof membrane",
+      "use_case": "Moderate trails and wet conditions",
+      "returns": "30 days for unused items",
+      "image": "/static/products/002.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 3,
+      "review": "Liked the waterproof design on my first use."
+    },
+    {
+      "id": 3,
+      "category": "hiking footwear",
+      "name": "Waterproof hiking boots",
+      "color": "olive",
+      "price": 4400,
+      "features": [
+        "waterproof",
+        "ankle support"
+      ],
+      "sizes": [
+        6,
+        7,
+        9,
+        10,
+        11
+      ],
+      "stock": 6,
+      "sku": "TG-003",
+      "brand": "Ridgecraft",
+      "weight_g": 920,
+      "material": "Ripstop nylon and rubber",
+      "warranty": "12 months",
+      "specification": "Waterproof membrane",
+      "use_case": "Moderate trails and wet conditions",
+      "returns": "30 days for unused items",
+      "image": "/static/products/003.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 4,
+      "review": "Liked the waterproof design on my first use."
+    },
+    {
+      "id": 4,
+      "category": "hiking footwear",
+      "name": "Waterproof hiking boots",
+      "color": "orange",
+      "price": 4500,
+      "features": [
+        "waterproof",
+        "ankle support"
+      ],
+      "sizes": [
+        6,
+        8,
+        9,
+        10,
+        11
+      ],
+      "stock": 7,
+      "sku": "TG-004",
+      "brand": "Ridgecraft",
+      "weight_g": 920,
+      "material": "Ripstop nylon and rubber",
+      "warranty": "12 months",
+      "specification": "Waterproof membrane",
+      "use_case": "Moderate trails and wet conditions",
+      "returns": "30 days for unused items",
+      "image": "/static/products/004.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 5,
+      "review": "Liked the waterproof design on my first use."
+    },
+    {
+      "id": 5,
+      "category": "hiking footwear",
+      "name": "Waterproof hiking boots",
+      "color": "grey",
+      "price": 4600,
+      "features": [
+        "waterproof",
+        "ankle support"
+      ],
+      "sizes": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "stock": 0,
+      "sku": "TG-005",
+      "brand": "Ridgecraft",
+      "weight_g": 920,
+      "material": "Ripstop nylon and rubber",
+      "warranty": "12 months",
+      "specification": "Waterproof membrane",
+      "use_case": "Moderate trails and wet conditions",
+      "returns": "30 days for unused items",
+      "image": "/static/products/005.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 6,
+      "review": "Liked the waterproof design on my first use."
+    },
+    {
+      "id": 6,
+      "category": "hiking footwear",
+      "name": "Lightweight trail shoes",
+      "color": "black",
+      "price": 2900,
+      "features": [
+        "lightweight",
+        "breathable",
+        "beginner"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        11
+      ],
+      "stock": 9,
+      "sku": "TG-006",
+      "brand": "Trailform",
+      "weight_g": 530,
+      "material": "Engineered mesh and rubber",
+      "warranty": "6 months",
+      "specification": "Breathable mesh upper",
+      "use_case": "Easy day hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/006.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 2,
+      "review": "Liked the lightweight design on my first use."
+    },
+    {
+      "id": 7,
+      "category": "hiking footwear",
+      "name": "Lightweight trail shoes",
+      "color": "navy",
+      "price": 3000,
+      "features": [
+        "lightweight",
+        "breathable",
+        "beginner"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        10,
+        11
+      ],
+      "stock": 10,
+      "sku": "TG-007",
+      "brand": "Trailform",
+      "weight_g": 530,
+      "material": "Engineered mesh and rubber",
+      "warranty": "6 months",
+      "specification": "Breathable mesh upper",
+      "use_case": "Easy day hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/007.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 3,
+      "review": "Liked the lightweight design on my first use."
+    },
+    {
+      "id": 8,
+      "category": "hiking footwear",
+      "name": "Lightweight trail shoes",
+      "color": "olive",
+      "price": 3100,
+      "features": [
+        "lightweight",
+        "breathable",
+        "beginner"
+      ],
+      "sizes": [
+        6,
+        7,
+        9,
+        10,
+        11
+      ],
+      "stock": 11,
+      "sku": "TG-008",
+      "brand": "Trailform",
+      "weight_g": 530,
+      "material": "Engineered mesh and rubber",
+      "warranty": "6 months",
+      "specification": "Breathable mesh upper",
+      "use_case": "Easy day hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/008.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 4,
+      "review": "Liked the lightweight design on my first use."
+    },
+    {
+      "id": 9,
+      "category": "hiking footwear",
+      "name": "Lightweight trail shoes",
+      "color": "orange",
+      "price": 3200,
+      "features": [
+        "lightweight",
+        "breathable",
+        "beginner"
+      ],
+      "sizes": [
+        6,
+        8,
+        9,
+        10,
+        11
+      ],
+      "stock": 12,
+      "sku": "TG-009",
+      "brand": "Trailform",
+      "weight_g": 530,
+      "material": "Engineered mesh and rubber",
+      "warranty": "6 months",
+      "specification": "Breathable mesh upper",
+      "use_case": "Easy day hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/009.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 5,
+      "review": "Liked the lightweight design on my first use."
+    },
+    {
+      "id": 10,
+      "category": "hiking footwear",
+      "name": "Lightweight trail shoes",
+      "color": "grey",
+      "price": 3300,
+      "features": [
+        "lightweight",
+        "breathable",
+        "beginner"
+      ],
+      "sizes": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "stock": 0,
+      "sku": "TG-010",
+      "brand": "Trailform",
+      "weight_g": 530,
+      "material": "Engineered mesh and rubber",
+      "warranty": "6 months",
+      "specification": "Breathable mesh upper",
+      "use_case": "Easy day hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/010.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 6,
+      "review": "Liked the lightweight design on my first use."
+    },
+    {
+      "id": 11,
+      "category": "hiking footwear",
+      "name": "Grip hiking boots",
+      "color": "black",
+      "price": 3600,
+      "features": [
+        "extra grip",
+        "ankle support"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        11
+      ],
+      "stock": 3,
+      "sku": "TG-011",
+      "brand": "Ridgecraft",
+      "weight_g": 1010,
+      "material": "Synthetic leather and rubber",
+      "warranty": "12 months",
+      "specification": "Deep-lug outsole",
+      "use_case": "Loose gravel and uneven ground",
+      "returns": "30 days for unused items",
+      "image": "/static/products/011.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 2,
+      "review": "Liked the extra grip design on my first use."
+    },
+    {
+      "id": 12,
+      "category": "hiking footwear",
+      "name": "Grip hiking boots",
+      "color": "navy",
+      "price": 3700,
+      "features": [
+        "extra grip",
+        "ankle support"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        10,
+        11
+      ],
+      "stock": 4,
+      "sku": "TG-012",
+      "brand": "Ridgecraft",
+      "weight_g": 1010,
+      "material": "Synthetic leather and rubber",
+      "warranty": "12 months",
+      "specification": "Deep-lug outsole",
+      "use_case": "Loose gravel and uneven ground",
+      "returns": "30 days for unused items",
+      "image": "/static/products/012.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 3,
+      "review": "Liked the extra grip design on my first use."
+    },
+    {
+      "id": 13,
+      "category": "hiking footwear",
+      "name": "Grip hiking boots",
+      "color": "olive",
+      "price": 3800,
+      "features": [
+        "extra grip",
+        "ankle support"
+      ],
+      "sizes": [
+        6,
+        7,
+        9,
+        10,
+        11
+      ],
+      "stock": 5,
+      "sku": "TG-013",
+      "brand": "Ridgecraft",
+      "weight_g": 1010,
+      "material": "Synthetic leather and rubber",
+      "warranty": "12 months",
+      "specification": "Deep-lug outsole",
+      "use_case": "Loose gravel and uneven ground",
+      "returns": "30 days for unused items",
+      "image": "/static/products/013.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 4,
+      "review": "Liked the extra grip design on my first use."
+    },
+    {
+      "id": 14,
+      "category": "hiking footwear",
+      "name": "Grip hiking boots",
+      "color": "orange",
+      "price": 3900,
+      "features": [
+        "extra grip",
+        "ankle support"
+      ],
+      "sizes": [
+        6,
+        8,
+        9,
+        10,
+        11
+      ],
+      "stock": 6,
+      "sku": "TG-014",
+      "brand": "Ridgecraft",
+      "weight_g": 1010,
+      "material": "Synthetic leather and rubber",
+      "warranty": "12 months",
+      "specification": "Deep-lug outsole",
+      "use_case": "Loose gravel and uneven ground",
+      "returns": "30 days for unused items",
+      "image": "/static/products/014.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 5,
+      "review": "Liked the extra grip design on my first use."
+    },
+    {
+      "id": 15,
+      "category": "hiking footwear",
+      "name": "Grip hiking boots",
+      "color": "grey",
+      "price": 4000,
+      "features": [
+        "extra grip",
+        "ankle support"
+      ],
+      "sizes": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "stock": 0,
+      "sku": "TG-015",
+      "brand": "Ridgecraft",
+      "weight_g": 1010,
+      "material": "Synthetic leather and rubber",
+      "warranty": "12 months",
+      "specification": "Deep-lug outsole",
+      "use_case": "Loose gravel and uneven ground",
+      "returns": "30 days for unused items",
+      "image": "/static/products/015.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 6,
+      "review": "Liked the extra grip design on my first use."
+    },
+    {
+      "id": 16,
+      "category": "hiking footwear",
+      "name": "Cushioned walking shoes",
+      "color": "black",
+      "price": 2500,
+      "features": [
+        "cushioned",
+        "lightweight"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        11
+      ],
+      "stock": 8,
+      "sku": "TG-016",
+      "brand": "Stridefield",
+      "weight_g": 490,
+      "material": "Mesh and EVA foam",
+      "warranty": "6 months",
+      "specification": "Soft EVA midsole",
+      "use_case": "Daily walking",
+      "returns": "30 days for unused items",
+      "image": "/static/products/016.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 2,
+      "review": "Liked the cushioned design on my first use."
+    },
+    {
+      "id": 17,
+      "category": "hiking footwear",
+      "name": "Cushioned walking shoes",
+      "color": "navy",
+      "price": 2600,
+      "features": [
+        "cushioned",
+        "lightweight"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        10,
+        11
+      ],
+      "stock": 9,
+      "sku": "TG-017",
+      "brand": "Stridefield",
+      "weight_g": 490,
+      "material": "Mesh and EVA foam",
+      "warranty": "6 months",
+      "specification": "Soft EVA midsole",
+      "use_case": "Daily walking",
+      "returns": "30 days for unused items",
+      "image": "/static/products/017.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 3,
+      "review": "Liked the cushioned design on my first use."
+    },
+    {
+      "id": 18,
+      "category": "hiking footwear",
+      "name": "Cushioned walking shoes",
+      "color": "olive",
+      "price": 2700,
+      "features": [
+        "cushioned",
+        "lightweight"
+      ],
+      "sizes": [
+        6,
+        7,
+        9,
+        10,
+        11
+      ],
+      "stock": 10,
+      "sku": "TG-018",
+      "brand": "Stridefield",
+      "weight_g": 490,
+      "material": "Mesh and EVA foam",
+      "warranty": "6 months",
+      "specification": "Soft EVA midsole",
+      "use_case": "Daily walking",
+      "returns": "30 days for unused items",
+      "image": "/static/products/018.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 4,
+      "review": "Liked the cushioned design on my first use."
+    },
+    {
+      "id": 19,
+      "category": "hiking footwear",
+      "name": "Cushioned walking shoes",
+      "color": "orange",
+      "price": 2800,
+      "features": [
+        "cushioned",
+        "lightweight"
+      ],
+      "sizes": [
+        6,
+        8,
+        9,
+        10,
+        11
+      ],
+      "stock": 11,
+      "sku": "TG-019",
+      "brand": "Stridefield",
+      "weight_g": 490,
+      "material": "Mesh and EVA foam",
+      "warranty": "6 months",
+      "specification": "Soft EVA midsole",
+      "use_case": "Daily walking",
+      "returns": "30 days for unused items",
+      "image": "/static/products/019.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 5,
+      "review": "Liked the cushioned design on my first use."
+    },
+    {
+      "id": 20,
+      "category": "hiking footwear",
+      "name": "Cushioned walking shoes",
+      "color": "grey",
+      "price": 2900,
+      "features": [
+        "cushioned",
+        "lightweight"
+      ],
+      "sizes": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "stock": 0,
+      "sku": "TG-020",
+      "brand": "Stridefield",
+      "weight_g": 490,
+      "material": "Mesh and EVA foam",
+      "warranty": "6 months",
+      "specification": "Soft EVA midsole",
+      "use_case": "Daily walking",
+      "returns": "30 days for unused items",
+      "image": "/static/products/020.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 6,
+      "review": "Liked the cushioned design on my first use."
+    },
+    {
+      "id": 21,
+      "category": "trekking poles",
+      "name": "Carbon trekking poles",
+      "color": "black",
+      "price": 4199,
+      "features": [
+        "carbon",
+        "lightweight"
+      ],
+      "sizes": [],
+      "stock": 13,
+      "sku": "TG-021",
+      "brand": "Ridgecraft",
+      "weight_g": 360,
+      "material": "Carbon fiber",
+      "warranty": "24 months",
+      "specification": "Adjusts from 100 to 130 cm",
+      "use_case": "Long-distance trekking",
+      "returns": "30 days for unused items",
+      "image": "/static/products/021.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 2,
+      "review": "Liked the carbon design on my first use."
+    },
+    {
+      "id": 22,
+      "category": "trekking poles",
+      "name": "Carbon trekking poles",
+      "color": "navy",
+      "price": 4299,
+      "features": [
+        "carbon",
+        "lightweight"
+      ],
+      "sizes": [],
+      "stock": 3,
+      "sku": "TG-022",
+      "brand": "Ridgecraft",
+      "weight_g": 360,
+      "material": "Carbon fiber",
+      "warranty": "24 months",
+      "specification": "Adjusts from 100 to 130 cm",
+      "use_case": "Long-distance trekking",
+      "returns": "30 days for unused items",
+      "image": "/static/products/022.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 3,
+      "review": "Liked the carbon design on my first use."
+    },
+    {
+      "id": 23,
+      "category": "trekking poles",
+      "name": "Carbon trekking poles",
+      "color": "olive",
+      "price": 4399,
+      "features": [
+        "carbon",
+        "lightweight"
+      ],
+      "sizes": [],
+      "stock": 4,
+      "sku": "TG-023",
+      "brand": "Ridgecraft",
+      "weight_g": 360,
+      "material": "Carbon fiber",
+      "warranty": "24 months",
+      "specification": "Adjusts from 100 to 130 cm",
+      "use_case": "Long-distance trekking",
+      "returns": "30 days for unused items",
+      "image": "/static/products/023.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 4,
+      "review": "Liked the carbon design on my first use."
+    },
+    {
+      "id": 24,
+      "category": "trekking poles",
+      "name": "Carbon trekking poles",
+      "color": "orange",
+      "price": 4499,
+      "features": [
+        "carbon",
+        "lightweight"
+      ],
+      "sizes": [],
+      "stock": 5,
+      "sku": "TG-024",
+      "brand": "Ridgecraft",
+      "weight_g": 360,
+      "material": "Carbon fiber",
+      "warranty": "24 months",
+      "specification": "Adjusts from 100 to 130 cm",
+      "use_case": "Long-distance trekking",
+      "returns": "30 days for unused items",
+      "image": "/static/products/024.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 5,
+      "review": "Liked the carbon design on my first use."
+    },
+    {
+      "id": 25,
+      "category": "trekking poles",
+      "name": "Carbon trekking poles",
+      "color": "grey",
+      "price": 4599,
+      "features": [
+        "carbon",
+        "lightweight"
+      ],
+      "sizes": [],
+      "stock": 0,
+      "sku": "TG-025",
+      "brand": "Ridgecraft",
+      "weight_g": 360,
+      "material": "Carbon fiber",
+      "warranty": "24 months",
+      "specification": "Adjusts from 100 to 130 cm",
+      "use_case": "Long-distance trekking",
+      "returns": "30 days for unused items",
+      "image": "/static/products/025.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 6,
+      "review": "Liked the carbon design on my first use."
+    },
+    {
+      "id": 26,
+      "category": "trekking poles",
+      "name": "Folding carbon poles",
+      "color": "black",
+      "price": 3299,
+      "features": [
+        "carbon",
+        "foldable"
+      ],
+      "sizes": [],
+      "stock": 7,
+      "sku": "TG-026",
+      "brand": "Trailform",
+      "weight_g": 380,
+      "material": "Carbon fiber",
+      "warranty": "12 months",
+      "specification": "Folds down to 36 cm",
+      "use_case": "Travel and day hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/026.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 2,
+      "review": "Liked the carbon design on my first use."
+    },
+    {
+      "id": 27,
+      "category": "trekking poles",
+      "name": "Folding carbon poles",
+      "color": "navy",
+      "price": 3399,
+      "features": [
+        "carbon",
+        "foldable"
+      ],
+      "sizes": [],
+      "stock": 8,
+      "sku": "TG-027",
+      "brand": "Trailform",
+      "weight_g": 380,
+      "material": "Carbon fiber",
+      "warranty": "12 months",
+      "specification": "Folds down to 36 cm",
+      "use_case": "Travel and day hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/027.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 3,
+      "review": "Liked the carbon design on my first use."
+    },
+    {
+      "id": 28,
+      "category": "trekking poles",
+      "name": "Folding carbon poles",
+      "color": "olive",
+      "price": 3499,
+      "features": [
+        "carbon",
+        "foldable"
+      ],
+      "sizes": [],
+      "stock": 9,
+      "sku": "TG-028",
+      "brand": "Trailform",
+      "weight_g": 380,
+      "material": "Carbon fiber",
+      "warranty": "12 months",
+      "specification": "Folds down to 36 cm",
+      "use_case": "Travel and day hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/028.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 4,
+      "review": "Liked the carbon design on my first use."
+    },
+    {
+      "id": 29,
+      "category": "trekking poles",
+      "name": "Folding carbon poles",
+      "color": "orange",
+      "price": 3599,
+      "features": [
+        "carbon",
+        "foldable"
+      ],
+      "sizes": [],
+      "stock": 10,
+      "sku": "TG-029",
+      "brand": "Trailform",
+      "weight_g": 380,
+      "material": "Carbon fiber",
+      "warranty": "12 months",
+      "specification": "Folds down to 36 cm",
+      "use_case": "Travel and day hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/029.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 5,
+      "review": "Liked the carbon design on my first use."
+    },
+    {
+      "id": 30,
+      "category": "trekking poles",
+      "name": "Folding carbon poles",
+      "color": "grey",
+      "price": 3699,
+      "features": [
+        "carbon",
+        "foldable"
+      ],
+      "sizes": [],
+      "stock": 0,
+      "sku": "TG-030",
+      "brand": "Trailform",
+      "weight_g": 380,
+      "material": "Carbon fiber",
+      "warranty": "12 months",
+      "specification": "Folds down to 36 cm",
+      "use_case": "Travel and day hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/030.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 6,
+      "review": "Liked the carbon design on my first use."
+    },
+    {
+      "id": 31,
+      "category": "trekking poles",
+      "name": "Aluminum trekking poles",
+      "color": "black",
+      "price": 1799,
+      "features": [
+        "aluminum",
+        "beginner",
+        "adjustable"
+      ],
+      "sizes": [],
+      "stock": 12,
+      "sku": "TG-031",
+      "brand": "Summit Works",
+      "weight_g": 540,
+      "material": "7075 aluminum",
+      "warranty": "12 months",
+      "specification": "Adjusts from 100 to 135 cm",
+      "use_case": "Beginner hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/031.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 2,
+      "review": "Liked the aluminum design on my first use."
+    },
+    {
+      "id": 32,
+      "category": "trekking poles",
+      "name": "Aluminum trekking poles",
+      "color": "navy",
+      "price": 1899,
+      "features": [
+        "aluminum",
+        "beginner",
+        "adjustable"
+      ],
+      "sizes": [],
+      "stock": 13,
+      "sku": "TG-032",
+      "brand": "Summit Works",
+      "weight_g": 540,
+      "material": "7075 aluminum",
+      "warranty": "12 months",
+      "specification": "Adjusts from 100 to 135 cm",
+      "use_case": "Beginner hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/032.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 3,
+      "review": "Liked the aluminum design on my first use."
+    },
+    {
+      "id": 33,
+      "category": "trekking poles",
+      "name": "Aluminum trekking poles",
+      "color": "olive",
+      "price": 1999,
+      "features": [
+        "aluminum",
+        "beginner",
+        "adjustable"
+      ],
+      "sizes": [],
+      "stock": 3,
+      "sku": "TG-033",
+      "brand": "Summit Works",
+      "weight_g": 540,
+      "material": "7075 aluminum",
+      "warranty": "12 months",
+      "specification": "Adjusts from 100 to 135 cm",
+      "use_case": "Beginner hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/033.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 4,
+      "review": "Liked the aluminum design on my first use."
+    },
+    {
+      "id": 34,
+      "category": "trekking poles",
+      "name": "Aluminum trekking poles",
+      "color": "orange",
+      "price": 2099,
+      "features": [
+        "aluminum",
+        "beginner",
+        "adjustable"
+      ],
+      "sizes": [],
+      "stock": 4,
+      "sku": "TG-034",
+      "brand": "Summit Works",
+      "weight_g": 540,
+      "material": "7075 aluminum",
+      "warranty": "12 months",
+      "specification": "Adjusts from 100 to 135 cm",
+      "use_case": "Beginner hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/034.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 5,
+      "review": "Liked the aluminum design on my first use."
+    },
+    {
+      "id": 35,
+      "category": "trekking poles",
+      "name": "Aluminum trekking poles",
+      "color": "grey",
+      "price": 2199,
+      "features": [
+        "aluminum",
+        "beginner",
+        "adjustable"
+      ],
+      "sizes": [],
+      "stock": 0,
+      "sku": "TG-035",
+      "brand": "Summit Works",
+      "weight_g": 540,
+      "material": "7075 aluminum",
+      "warranty": "12 months",
+      "specification": "Adjusts from 100 to 135 cm",
+      "use_case": "Beginner hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/035.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 6,
+      "review": "Liked the aluminum design on my first use."
+    },
+    {
+      "id": 36,
+      "category": "trekking poles",
+      "name": "Shock-absorbing walking poles",
+      "color": "black",
+      "price": 2599,
+      "features": [
+        "aluminum",
+        "shock absorbing",
+        "adjustable"
+      ],
+      "sizes": [],
+      "stock": 6,
+      "sku": "TG-036",
+      "brand": "Stridefield",
+      "weight_g": 560,
+      "material": "6061 aluminum",
+      "warranty": "12 months",
+      "specification": "Spring suspension and wrist straps",
+      "use_case": "Walking on mixed surfaces",
+      "returns": "30 days for unused items",
+      "image": "/static/products/036.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 2,
+      "review": "Liked the aluminum design on my first use."
+    },
+    {
+      "id": 37,
+      "category": "trekking poles",
+      "name": "Shock-absorbing walking poles",
+      "color": "navy",
+      "price": 2699,
+      "features": [
+        "aluminum",
+        "shock absorbing",
+        "adjustable"
+      ],
+      "sizes": [],
+      "stock": 7,
+      "sku": "TG-037",
+      "brand": "Stridefield",
+      "weight_g": 560,
+      "material": "6061 aluminum",
+      "warranty": "12 months",
+      "specification": "Spring suspension and wrist straps",
+      "use_case": "Walking on mixed surfaces",
+      "returns": "30 days for unused items",
+      "image": "/static/products/037.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 3,
+      "review": "Liked the aluminum design on my first use."
+    },
+    {
+      "id": 38,
+      "category": "trekking poles",
+      "name": "Shock-absorbing walking poles",
+      "color": "olive",
+      "price": 2799,
+      "features": [
+        "aluminum",
+        "shock absorbing",
+        "adjustable"
+      ],
+      "sizes": [],
+      "stock": 8,
+      "sku": "TG-038",
+      "brand": "Stridefield",
+      "weight_g": 560,
+      "material": "6061 aluminum",
+      "warranty": "12 months",
+      "specification": "Spring suspension and wrist straps",
+      "use_case": "Walking on mixed surfaces",
+      "returns": "30 days for unused items",
+      "image": "/static/products/038.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 4,
+      "review": "Liked the aluminum design on my first use."
+    },
+    {
+      "id": 39,
+      "category": "trekking poles",
+      "name": "Shock-absorbing walking poles",
+      "color": "orange",
+      "price": 2899,
+      "features": [
+        "aluminum",
+        "shock absorbing",
+        "adjustable"
+      ],
+      "sizes": [],
+      "stock": 9,
+      "sku": "TG-039",
+      "brand": "Stridefield",
+      "weight_g": 560,
+      "material": "6061 aluminum",
+      "warranty": "12 months",
+      "specification": "Spring suspension and wrist straps",
+      "use_case": "Walking on mixed surfaces",
+      "returns": "30 days for unused items",
+      "image": "/static/products/039.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 5,
+      "review": "Liked the aluminum design on my first use."
+    },
+    {
+      "id": 40,
+      "category": "trekking poles",
+      "name": "Shock-absorbing walking poles",
+      "color": "grey",
+      "price": 2999,
+      "features": [
+        "aluminum",
+        "shock absorbing",
+        "adjustable"
+      ],
+      "sizes": [],
+      "stock": 0,
+      "sku": "TG-040",
+      "brand": "Stridefield",
+      "weight_g": 560,
+      "material": "6061 aluminum",
+      "warranty": "12 months",
+      "specification": "Spring suspension and wrist straps",
+      "use_case": "Walking on mixed surfaces",
+      "returns": "30 days for unused items",
+      "image": "/static/products/040.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 6,
+      "review": "Liked the aluminum design on my first use."
+    },
+    {
+      "id": 41,
+      "category": "backpacks",
+      "name": "Lightweight 18 L daypack",
+      "color": "black",
+      "price": 1499,
+      "features": [
+        "lightweight",
+        "18 l"
+      ],
+      "sizes": [],
+      "stock": 11,
+      "sku": "TG-041",
+      "brand": "Trailform",
+      "weight_g": 410,
+      "material": "Recycled ripstop nylon",
+      "warranty": "12 months",
+      "specification": "18 L capacity",
+      "use_case": "Short hikes and commuting",
+      "returns": "30 days for unused items",
+      "image": "/static/products/041.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 2,
+      "review": "Liked the lightweight design on my first use."
+    },
+    {
+      "id": 42,
+      "category": "backpacks",
+      "name": "Lightweight 18 L daypack",
+      "color": "navy",
+      "price": 1599,
+      "features": [
+        "lightweight",
+        "18 l"
+      ],
+      "sizes": [],
+      "stock": 12,
+      "sku": "TG-042",
+      "brand": "Trailform",
+      "weight_g": 410,
+      "material": "Recycled ripstop nylon",
+      "warranty": "12 months",
+      "specification": "18 L capacity",
+      "use_case": "Short hikes and commuting",
+      "returns": "30 days for unused items",
+      "image": "/static/products/042.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 3,
+      "review": "Liked the lightweight design on my first use."
+    },
+    {
+      "id": 43,
+      "category": "backpacks",
+      "name": "Lightweight 18 L daypack",
+      "color": "olive",
+      "price": 1699,
+      "features": [
+        "lightweight",
+        "18 l"
+      ],
+      "sizes": [],
+      "stock": 13,
+      "sku": "TG-043",
+      "brand": "Trailform",
+      "weight_g": 410,
+      "material": "Recycled ripstop nylon",
+      "warranty": "12 months",
+      "specification": "18 L capacity",
+      "use_case": "Short hikes and commuting",
+      "returns": "30 days for unused items",
+      "image": "/static/products/043.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 4,
+      "review": "Liked the lightweight design on my first use."
+    },
+    {
+      "id": 44,
+      "category": "backpacks",
+      "name": "Lightweight 18 L daypack",
+      "color": "orange",
+      "price": 1799,
+      "features": [
+        "lightweight",
+        "18 l"
+      ],
+      "sizes": [],
+      "stock": 3,
+      "sku": "TG-044",
+      "brand": "Trailform",
+      "weight_g": 410,
+      "material": "Recycled ripstop nylon",
+      "warranty": "12 months",
+      "specification": "18 L capacity",
+      "use_case": "Short hikes and commuting",
+      "returns": "30 days for unused items",
+      "image": "/static/products/044.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 5,
+      "review": "Liked the lightweight design on my first use."
+    },
+    {
+      "id": 45,
+      "category": "backpacks",
+      "name": "Lightweight 18 L daypack",
+      "color": "grey",
+      "price": 1899,
+      "features": [
+        "lightweight",
+        "18 l"
+      ],
+      "sizes": [],
+      "stock": 0,
+      "sku": "TG-045",
+      "brand": "Trailform",
+      "weight_g": 410,
+      "material": "Recycled ripstop nylon",
+      "warranty": "12 months",
+      "specification": "18 L capacity",
+      "use_case": "Short hikes and commuting",
+      "returns": "30 days for unused items",
+      "image": "/static/products/045.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 6,
+      "review": "Liked the lightweight design on my first use."
+    },
+    {
+      "id": 46,
+      "category": "backpacks",
+      "name": "Waterproof 25 L daypack",
+      "color": "black",
+      "price": 2699,
+      "features": [
+        "waterproof",
+        "25 l"
+      ],
+      "sizes": [],
+      "stock": 5,
+      "sku": "TG-046",
+      "brand": "Ridgecraft",
+      "weight_g": 680,
+      "material": "TPU-coated nylon",
+      "warranty": "18 months",
+      "specification": "25 L capacity with roll-top closure",
+      "use_case": "Rainy day hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/046.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 2,
+      "review": "Liked the waterproof design on my first use."
+    },
+    {
+      "id": 47,
+      "category": "backpacks",
+      "name": "Waterproof 25 L daypack",
+      "color": "navy",
+      "price": 2799,
+      "features": [
+        "waterproof",
+        "25 l"
+      ],
+      "sizes": [],
+      "stock": 6,
+      "sku": "TG-047",
+      "brand": "Ridgecraft",
+      "weight_g": 680,
+      "material": "TPU-coated nylon",
+      "warranty": "18 months",
+      "specification": "25 L capacity with roll-top closure",
+      "use_case": "Rainy day hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/047.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 3,
+      "review": "Liked the waterproof design on my first use."
+    },
+    {
+      "id": 48,
+      "category": "backpacks",
+      "name": "Waterproof 25 L daypack",
+      "color": "olive",
+      "price": 2899,
+      "features": [
+        "waterproof",
+        "25 l"
+      ],
+      "sizes": [],
+      "stock": 7,
+      "sku": "TG-048",
+      "brand": "Ridgecraft",
+      "weight_g": 680,
+      "material": "TPU-coated nylon",
+      "warranty": "18 months",
+      "specification": "25 L capacity with roll-top closure",
+      "use_case": "Rainy day hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/048.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 4,
+      "review": "Liked the waterproof design on my first use."
+    },
+    {
+      "id": 49,
+      "category": "backpacks",
+      "name": "Waterproof 25 L daypack",
+      "color": "orange",
+      "price": 2999,
+      "features": [
+        "waterproof",
+        "25 l"
+      ],
+      "sizes": [],
+      "stock": 8,
+      "sku": "TG-049",
+      "brand": "Ridgecraft",
+      "weight_g": 680,
+      "material": "TPU-coated nylon",
+      "warranty": "18 months",
+      "specification": "25 L capacity with roll-top closure",
+      "use_case": "Rainy day hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/049.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 5,
+      "review": "Liked the waterproof design on my first use."
+    },
+    {
+      "id": 50,
+      "category": "backpacks",
+      "name": "Waterproof 25 L daypack",
+      "color": "grey",
+      "price": 3099,
+      "features": [
+        "waterproof",
+        "25 l"
+      ],
+      "sizes": [],
+      "stock": 0,
+      "sku": "TG-050",
+      "brand": "Ridgecraft",
+      "weight_g": 680,
+      "material": "TPU-coated nylon",
+      "warranty": "18 months",
+      "specification": "25 L capacity with roll-top closure",
+      "use_case": "Rainy day hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/050.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 6,
+      "review": "Liked the waterproof design on my first use."
+    },
+    {
+      "id": 51,
+      "category": "backpacks",
+      "name": "Ventilated 30 L trail pack",
+      "color": "black",
+      "price": 3299,
+      "features": [
+        "breathable",
+        "30 l"
+      ],
+      "sizes": [],
+      "stock": 10,
+      "sku": "TG-051",
+      "brand": "Summit Works",
+      "weight_g": 890,
+      "material": "Recycled polyester",
+      "warranty": "24 months",
+      "specification": "30 L capacity with suspended mesh back",
+      "use_case": "Full-day hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/051.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 2,
+      "review": "Liked the breathable design on my first use."
+    },
+    {
+      "id": 52,
+      "category": "backpacks",
+      "name": "Ventilated 30 L trail pack",
+      "color": "navy",
+      "price": 3399,
+      "features": [
+        "breathable",
+        "30 l"
+      ],
+      "sizes": [],
+      "stock": 11,
+      "sku": "TG-052",
+      "brand": "Summit Works",
+      "weight_g": 890,
+      "material": "Recycled polyester",
+      "warranty": "24 months",
+      "specification": "30 L capacity with suspended mesh back",
+      "use_case": "Full-day hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/052.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 3,
+      "review": "Liked the breathable design on my first use."
+    },
+    {
+      "id": 53,
+      "category": "backpacks",
+      "name": "Ventilated 30 L trail pack",
+      "color": "olive",
+      "price": 3499,
+      "features": [
+        "breathable",
+        "30 l"
+      ],
+      "sizes": [],
+      "stock": 12,
+      "sku": "TG-053",
+      "brand": "Summit Works",
+      "weight_g": 890,
+      "material": "Recycled polyester",
+      "warranty": "24 months",
+      "specification": "30 L capacity with suspended mesh back",
+      "use_case": "Full-day hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/053.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 4,
+      "review": "Liked the breathable design on my first use."
+    },
+    {
+      "id": 54,
+      "category": "backpacks",
+      "name": "Ventilated 30 L trail pack",
+      "color": "orange",
+      "price": 3599,
+      "features": [
+        "breathable",
+        "30 l"
+      ],
+      "sizes": [],
+      "stock": 13,
+      "sku": "TG-054",
+      "brand": "Summit Works",
+      "weight_g": 890,
+      "material": "Recycled polyester",
+      "warranty": "24 months",
+      "specification": "30 L capacity with suspended mesh back",
+      "use_case": "Full-day hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/054.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 5,
+      "review": "Liked the breathable design on my first use."
+    },
+    {
+      "id": 55,
+      "category": "backpacks",
+      "name": "Ventilated 30 L trail pack",
+      "color": "grey",
+      "price": 3699,
+      "features": [
+        "breathable",
+        "30 l"
+      ],
+      "sizes": [],
+      "stock": 0,
+      "sku": "TG-055",
+      "brand": "Summit Works",
+      "weight_g": 890,
+      "material": "Recycled polyester",
+      "warranty": "24 months",
+      "specification": "30 L capacity with suspended mesh back",
+      "use_case": "Full-day hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/055.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 6,
+      "review": "Liked the breathable design on my first use."
+    },
+    {
+      "id": 56,
+      "category": "backpacks",
+      "name": "40 L camping backpack",
+      "color": "black",
+      "price": 4499,
+      "features": [
+        "40 l",
+        "extra padding"
+      ],
+      "sizes": [],
+      "stock": 4,
+      "sku": "TG-056",
+      "brand": "Summit Works",
+      "weight_g": 1340,
+      "material": "600D polyester",
+      "warranty": "24 months",
+      "specification": "40 L capacity with padded hip belt",
+      "use_case": "Overnight camping",
+      "returns": "30 days for unused items",
+      "image": "/static/products/056.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 2,
+      "review": "Liked the 40 l design on my first use."
+    },
+    {
+      "id": 57,
+      "category": "backpacks",
+      "name": "40 L camping backpack",
+      "color": "navy",
+      "price": 4599,
+      "features": [
+        "40 l",
+        "extra padding"
+      ],
+      "sizes": [],
+      "stock": 5,
+      "sku": "TG-057",
+      "brand": "Summit Works",
+      "weight_g": 1340,
+      "material": "600D polyester",
+      "warranty": "24 months",
+      "specification": "40 L capacity with padded hip belt",
+      "use_case": "Overnight camping",
+      "returns": "30 days for unused items",
+      "image": "/static/products/057.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 3,
+      "review": "Liked the 40 l design on my first use."
+    },
+    {
+      "id": 58,
+      "category": "backpacks",
+      "name": "40 L camping backpack",
+      "color": "olive",
+      "price": 4699,
+      "features": [
+        "40 l",
+        "extra padding"
+      ],
+      "sizes": [],
+      "stock": 6,
+      "sku": "TG-058",
+      "brand": "Summit Works",
+      "weight_g": 1340,
+      "material": "600D polyester",
+      "warranty": "24 months",
+      "specification": "40 L capacity with padded hip belt",
+      "use_case": "Overnight camping",
+      "returns": "30 days for unused items",
+      "image": "/static/products/058.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 4,
+      "review": "Liked the 40 l design on my first use."
+    },
+    {
+      "id": 59,
+      "category": "backpacks",
+      "name": "40 L camping backpack",
+      "color": "orange",
+      "price": 4799,
+      "features": [
+        "40 l",
+        "extra padding"
+      ],
+      "sizes": [],
+      "stock": 7,
+      "sku": "TG-059",
+      "brand": "Summit Works",
+      "weight_g": 1340,
+      "material": "600D polyester",
+      "warranty": "24 months",
+      "specification": "40 L capacity with padded hip belt",
+      "use_case": "Overnight camping",
+      "returns": "30 days for unused items",
+      "image": "/static/products/059.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 5,
+      "review": "Liked the 40 l design on my first use."
+    },
+    {
+      "id": 60,
+      "category": "backpacks",
+      "name": "40 L camping backpack",
+      "color": "grey",
+      "price": 4899,
+      "features": [
+        "40 l",
+        "extra padding"
+      ],
+      "sizes": [],
+      "stock": 0,
+      "sku": "TG-060",
+      "brand": "Summit Works",
+      "weight_g": 1340,
+      "material": "600D polyester",
+      "warranty": "24 months",
+      "specification": "40 L capacity with padded hip belt",
+      "use_case": "Overnight camping",
+      "returns": "30 days for unused items",
+      "image": "/static/products/060.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 6,
+      "review": "Liked the 40 l design on my first use."
+    },
+    {
+      "id": 61,
+      "category": "camping gear",
+      "name": "Rechargeable headlamp",
+      "color": "black",
+      "price": 999,
+      "features": [
+        "rechargeable",
+        "lightweight"
+      ],
+      "sizes": [],
+      "stock": 9,
+      "sku": "TG-061",
+      "brand": "Campfield",
+      "weight_g": 78,
+      "material": "ABS and elastic",
+      "warranty": "12 months",
+      "specification": "300 lumens, up to 10 hours on low",
+      "use_case": "Hands-free lighting",
+      "returns": "30 days for unused items",
+      "image": "/static/products/061.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 2,
+      "review": "Liked the rechargeable design on my first use."
+    },
+    {
+      "id": 62,
+      "category": "camping gear",
+      "name": "Rechargeable headlamp",
+      "color": "navy",
+      "price": 1099,
+      "features": [
+        "rechargeable",
+        "lightweight"
+      ],
+      "sizes": [],
+      "stock": 10,
+      "sku": "TG-062",
+      "brand": "Campfield",
+      "weight_g": 78,
+      "material": "ABS and elastic",
+      "warranty": "12 months",
+      "specification": "300 lumens, up to 10 hours on low",
+      "use_case": "Hands-free lighting",
+      "returns": "30 days for unused items",
+      "image": "/static/products/062.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 3,
+      "review": "Liked the rechargeable design on my first use."
+    },
+    {
+      "id": 63,
+      "category": "camping gear",
+      "name": "Rechargeable headlamp",
+      "color": "olive",
+      "price": 1199,
+      "features": [
+        "rechargeable",
+        "lightweight"
+      ],
+      "sizes": [],
+      "stock": 11,
+      "sku": "TG-063",
+      "brand": "Campfield",
+      "weight_g": 78,
+      "material": "ABS and elastic",
+      "warranty": "12 months",
+      "specification": "300 lumens, up to 10 hours on low",
+      "use_case": "Hands-free lighting",
+      "returns": "30 days for unused items",
+      "image": "/static/products/063.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 4,
+      "review": "Liked the rechargeable design on my first use."
+    },
+    {
+      "id": 64,
+      "category": "camping gear",
+      "name": "Rechargeable headlamp",
+      "color": "orange",
+      "price": 1299,
+      "features": [
+        "rechargeable",
+        "lightweight"
+      ],
+      "sizes": [],
+      "stock": 12,
+      "sku": "TG-064",
+      "brand": "Campfield",
+      "weight_g": 78,
+      "material": "ABS and elastic",
+      "warranty": "12 months",
+      "specification": "300 lumens, up to 10 hours on low",
+      "use_case": "Hands-free lighting",
+      "returns": "30 days for unused items",
+      "image": "/static/products/064.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 5,
+      "review": "Liked the rechargeable design on my first use."
+    },
+    {
+      "id": 65,
+      "category": "camping gear",
+      "name": "Rechargeable headlamp",
+      "color": "grey",
+      "price": 1399,
+      "features": [
+        "rechargeable",
+        "lightweight"
+      ],
+      "sizes": [],
+      "stock": 0,
+      "sku": "TG-065",
+      "brand": "Campfield",
+      "weight_g": 78,
+      "material": "ABS and elastic",
+      "warranty": "12 months",
+      "specification": "300 lumens, up to 10 hours on low",
+      "use_case": "Hands-free lighting",
+      "returns": "30 days for unused items",
+      "image": "/static/products/065.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 6,
+      "review": "Liked the rechargeable design on my first use."
+    },
+    {
+      "id": 66,
+      "category": "camping gear",
+      "name": "Compact camping lantern",
+      "color": "black",
+      "price": 1399,
+      "features": [
+        "rechargeable",
+        "beginner"
+      ],
+      "sizes": [],
+      "stock": 3,
+      "sku": "TG-066",
+      "brand": "Campfield",
+      "weight_g": 210,
+      "material": "ABS and silicone",
+      "warranty": "12 months",
+      "specification": "250 lumens, up to 14 hours on low",
+      "use_case": "Tent and campsite lighting",
+      "returns": "30 days for unused items",
+      "image": "/static/products/066.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 2,
+      "review": "Liked the rechargeable design on my first use."
+    },
+    {
+      "id": 67,
+      "category": "camping gear",
+      "name": "Compact camping lantern",
+      "color": "navy",
+      "price": 1499,
+      "features": [
+        "rechargeable",
+        "beginner"
+      ],
+      "sizes": [],
+      "stock": 4,
+      "sku": "TG-067",
+      "brand": "Campfield",
+      "weight_g": 210,
+      "material": "ABS and silicone",
+      "warranty": "12 months",
+      "specification": "250 lumens, up to 14 hours on low",
+      "use_case": "Tent and campsite lighting",
+      "returns": "30 days for unused items",
+      "image": "/static/products/067.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 3,
+      "review": "Liked the rechargeable design on my first use."
+    },
+    {
+      "id": 68,
+      "category": "camping gear",
+      "name": "Compact camping lantern",
+      "color": "olive",
+      "price": 1599,
+      "features": [
+        "rechargeable",
+        "beginner"
+      ],
+      "sizes": [],
+      "stock": 5,
+      "sku": "TG-068",
+      "brand": "Campfield",
+      "weight_g": 210,
+      "material": "ABS and silicone",
+      "warranty": "12 months",
+      "specification": "250 lumens, up to 14 hours on low",
+      "use_case": "Tent and campsite lighting",
+      "returns": "30 days for unused items",
+      "image": "/static/products/068.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 4,
+      "review": "Liked the rechargeable design on my first use."
+    },
+    {
+      "id": 69,
+      "category": "camping gear",
+      "name": "Compact camping lantern",
+      "color": "orange",
+      "price": 1699,
+      "features": [
+        "rechargeable",
+        "beginner"
+      ],
+      "sizes": [],
+      "stock": 6,
+      "sku": "TG-069",
+      "brand": "Campfield",
+      "weight_g": 210,
+      "material": "ABS and silicone",
+      "warranty": "12 months",
+      "specification": "250 lumens, up to 14 hours on low",
+      "use_case": "Tent and campsite lighting",
+      "returns": "30 days for unused items",
+      "image": "/static/products/069.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 5,
+      "review": "Liked the rechargeable design on my first use."
+    },
+    {
+      "id": 70,
+      "category": "camping gear",
+      "name": "Compact camping lantern",
+      "color": "grey",
+      "price": 1799,
+      "features": [
+        "rechargeable",
+        "beginner"
+      ],
+      "sizes": [],
+      "stock": 0,
+      "sku": "TG-070",
+      "brand": "Campfield",
+      "weight_g": 210,
+      "material": "ABS and silicone",
+      "warranty": "12 months",
+      "specification": "250 lumens, up to 14 hours on low",
+      "use_case": "Tent and campsite lighting",
+      "returns": "30 days for unused items",
+      "image": "/static/products/070.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 6,
+      "review": "Liked the rechargeable design on my first use."
+    },
+    {
+      "id": 71,
+      "category": "camping gear",
+      "name": "Two-person waterproof tent",
+      "color": "black",
+      "price": 4399,
+      "features": [
+        "waterproof",
+        "two person"
+      ],
+      "sizes": [],
+      "stock": 8,
+      "sku": "TG-071",
+      "brand": "Ridgecraft",
+      "weight_g": 2350,
+      "material": "Coated polyester and aluminum",
+      "warranty": "24 months",
+      "specification": "Two-person capacity, 2000 mm rainfly",
+      "use_case": "Weekend camping",
+      "returns": "30 days for unused items",
+      "image": "/static/products/071.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 2,
+      "review": "Liked the waterproof design on my first use."
+    },
+    {
+      "id": 72,
+      "category": "camping gear",
+      "name": "Two-person waterproof tent",
+      "color": "navy",
+      "price": 4499,
+      "features": [
+        "waterproof",
+        "two person"
+      ],
+      "sizes": [],
+      "stock": 9,
+      "sku": "TG-072",
+      "brand": "Ridgecraft",
+      "weight_g": 2350,
+      "material": "Coated polyester and aluminum",
+      "warranty": "24 months",
+      "specification": "Two-person capacity, 2000 mm rainfly",
+      "use_case": "Weekend camping",
+      "returns": "30 days for unused items",
+      "image": "/static/products/072.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 3,
+      "review": "Liked the waterproof design on my first use."
+    },
+    {
+      "id": 73,
+      "category": "camping gear",
+      "name": "Two-person waterproof tent",
+      "color": "olive",
+      "price": 4599,
+      "features": [
+        "waterproof",
+        "two person"
+      ],
+      "sizes": [],
+      "stock": 10,
+      "sku": "TG-073",
+      "brand": "Ridgecraft",
+      "weight_g": 2350,
+      "material": "Coated polyester and aluminum",
+      "warranty": "24 months",
+      "specification": "Two-person capacity, 2000 mm rainfly",
+      "use_case": "Weekend camping",
+      "returns": "30 days for unused items",
+      "image": "/static/products/073.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 4,
+      "review": "Liked the waterproof design on my first use."
+    },
+    {
+      "id": 74,
+      "category": "camping gear",
+      "name": "Two-person waterproof tent",
+      "color": "orange",
+      "price": 4699,
+      "features": [
+        "waterproof",
+        "two person"
+      ],
+      "sizes": [],
+      "stock": 11,
+      "sku": "TG-074",
+      "brand": "Ridgecraft",
+      "weight_g": 2350,
+      "material": "Coated polyester and aluminum",
+      "warranty": "24 months",
+      "specification": "Two-person capacity, 2000 mm rainfly",
+      "use_case": "Weekend camping",
+      "returns": "30 days for unused items",
+      "image": "/static/products/074.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 5,
+      "review": "Liked the waterproof design on my first use."
+    },
+    {
+      "id": 75,
+      "category": "camping gear",
+      "name": "Two-person waterproof tent",
+      "color": "grey",
+      "price": 4799,
+      "features": [
+        "waterproof",
+        "two person"
+      ],
+      "sizes": [],
+      "stock": 0,
+      "sku": "TG-075",
+      "brand": "Ridgecraft",
+      "weight_g": 2350,
+      "material": "Coated polyester and aluminum",
+      "warranty": "24 months",
+      "specification": "Two-person capacity, 2000 mm rainfly",
+      "use_case": "Weekend camping",
+      "returns": "30 days for unused items",
+      "image": "/static/products/075.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 6,
+      "review": "Liked the waterproof design on my first use."
+    },
+    {
+      "id": 76,
+      "category": "camping gear",
+      "name": "Insulated sleeping bag",
+      "color": "black",
+      "price": 2399,
+      "features": [
+        "insulated",
+        "beginner"
+      ],
+      "sizes": [],
+      "stock": 13,
+      "sku": "TG-076",
+      "brand": "Campfield",
+      "weight_g": 1180,
+      "material": "Polyester shell and synthetic fill",
+      "warranty": "12 months",
+      "specification": "Comfort rating of 10°C",
+      "use_case": "Mild-weather camping",
+      "returns": "30 days for unused items",
+      "image": "/static/products/076.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 2,
+      "review": "Liked the insulated design on my first use."
+    },
+    {
+      "id": 77,
+      "category": "camping gear",
+      "name": "Insulated sleeping bag",
+      "color": "navy",
+      "price": 2499,
+      "features": [
+        "insulated",
+        "beginner"
+      ],
+      "sizes": [],
+      "stock": 3,
+      "sku": "TG-077",
+      "brand": "Campfield",
+      "weight_g": 1180,
+      "material": "Polyester shell and synthetic fill",
+      "warranty": "12 months",
+      "specification": "Comfort rating of 10°C",
+      "use_case": "Mild-weather camping",
+      "returns": "30 days for unused items",
+      "image": "/static/products/077.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 3,
+      "review": "Liked the insulated design on my first use."
+    },
+    {
+      "id": 78,
+      "category": "camping gear",
+      "name": "Insulated sleeping bag",
+      "color": "olive",
+      "price": 2599,
+      "features": [
+        "insulated",
+        "beginner"
+      ],
+      "sizes": [],
+      "stock": 4,
+      "sku": "TG-078",
+      "brand": "Campfield",
+      "weight_g": 1180,
+      "material": "Polyester shell and synthetic fill",
+      "warranty": "12 months",
+      "specification": "Comfort rating of 10°C",
+      "use_case": "Mild-weather camping",
+      "returns": "30 days for unused items",
+      "image": "/static/products/078.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 4,
+      "review": "Liked the insulated design on my first use."
+    },
+    {
+      "id": 79,
+      "category": "camping gear",
+      "name": "Insulated sleeping bag",
+      "color": "orange",
+      "price": 2699,
+      "features": [
+        "insulated",
+        "beginner"
+      ],
+      "sizes": [],
+      "stock": 5,
+      "sku": "TG-079",
+      "brand": "Campfield",
+      "weight_g": 1180,
+      "material": "Polyester shell and synthetic fill",
+      "warranty": "12 months",
+      "specification": "Comfort rating of 10°C",
+      "use_case": "Mild-weather camping",
+      "returns": "30 days for unused items",
+      "image": "/static/products/079.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 5,
+      "review": "Liked the insulated design on my first use."
+    },
+    {
+      "id": 80,
+      "category": "camping gear",
+      "name": "Insulated sleeping bag",
+      "color": "grey",
+      "price": 2799,
+      "features": [
+        "insulated",
+        "beginner"
+      ],
+      "sizes": [],
+      "stock": 0,
+      "sku": "TG-080",
+      "brand": "Campfield",
+      "weight_g": 1180,
+      "material": "Polyester shell and synthetic fill",
+      "warranty": "12 months",
+      "specification": "Comfort rating of 10°C",
+      "use_case": "Mild-weather camping",
+      "returns": "30 days for unused items",
+      "image": "/static/products/080.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 6,
+      "review": "Liked the insulated design on my first use."
+    },
+    {
+      "id": 81,
+      "category": "hydration",
+      "name": "Insulated 750 ml bottle",
+      "color": "black",
+      "price": 1099,
+      "features": [
+        "insulated",
+        "750 ml"
+      ],
+      "sizes": [],
+      "stock": 7,
+      "sku": "TG-081",
+      "brand": "Trailform",
+      "weight_g": 385,
+      "material": "Stainless steel",
+      "warranty": "12 months",
+      "specification": "750 ml, keeps drinks cold up to 18 hours",
+      "use_case": "Hiking and commuting",
+      "returns": "30 days for unused items",
+      "image": "/static/products/081.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 2,
+      "review": "Liked the insulated design on my first use."
+    },
+    {
+      "id": 82,
+      "category": "hydration",
+      "name": "Insulated 750 ml bottle",
+      "color": "navy",
+      "price": 1199,
+      "features": [
+        "insulated",
+        "750 ml"
+      ],
+      "sizes": [],
+      "stock": 8,
+      "sku": "TG-082",
+      "brand": "Trailform",
+      "weight_g": 385,
+      "material": "Stainless steel",
+      "warranty": "12 months",
+      "specification": "750 ml, keeps drinks cold up to 18 hours",
+      "use_case": "Hiking and commuting",
+      "returns": "30 days for unused items",
+      "image": "/static/products/082.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 3,
+      "review": "Liked the insulated design on my first use."
+    },
+    {
+      "id": 83,
+      "category": "hydration",
+      "name": "Insulated 750 ml bottle",
+      "color": "olive",
+      "price": 1299,
+      "features": [
+        "insulated",
+        "750 ml"
+      ],
+      "sizes": [],
+      "stock": 9,
+      "sku": "TG-083",
+      "brand": "Trailform",
+      "weight_g": 385,
+      "material": "Stainless steel",
+      "warranty": "12 months",
+      "specification": "750 ml, keeps drinks cold up to 18 hours",
+      "use_case": "Hiking and commuting",
+      "returns": "30 days for unused items",
+      "image": "/static/products/083.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 4,
+      "review": "Liked the insulated design on my first use."
+    },
+    {
+      "id": 84,
+      "category": "hydration",
+      "name": "Insulated 750 ml bottle",
+      "color": "orange",
+      "price": 1399,
+      "features": [
+        "insulated",
+        "750 ml"
+      ],
+      "sizes": [],
+      "stock": 10,
+      "sku": "TG-084",
+      "brand": "Trailform",
+      "weight_g": 385,
+      "material": "Stainless steel",
+      "warranty": "12 months",
+      "specification": "750 ml, keeps drinks cold up to 18 hours",
+      "use_case": "Hiking and commuting",
+      "returns": "30 days for unused items",
+      "image": "/static/products/084.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 5,
+      "review": "Liked the insulated design on my first use."
+    },
+    {
+      "id": 85,
+      "category": "hydration",
+      "name": "Insulated 750 ml bottle",
+      "color": "grey",
+      "price": 1499,
+      "features": [
+        "insulated",
+        "750 ml"
+      ],
+      "sizes": [],
+      "stock": 0,
+      "sku": "TG-085",
+      "brand": "Trailform",
+      "weight_g": 385,
+      "material": "Stainless steel",
+      "warranty": "12 months",
+      "specification": "750 ml, keeps drinks cold up to 18 hours",
+      "use_case": "Hiking and commuting",
+      "returns": "30 days for unused items",
+      "image": "/static/products/085.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 6,
+      "review": "Liked the insulated design on my first use."
+    },
+    {
+      "id": 86,
+      "category": "hydration",
+      "name": "Lightweight 1 L bottle",
+      "color": "black",
+      "price": 649,
+      "features": [
+        "lightweight",
+        "1 l"
+      ],
+      "sizes": [],
+      "stock": 12,
+      "sku": "TG-086",
+      "brand": "Stridefield",
+      "weight_g": 160,
+      "material": "Tritan copolyester",
+      "warranty": "6 months",
+      "specification": "1 L with carry loop",
+      "use_case": "Long workouts and day hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/086.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 2,
+      "review": "Liked the lightweight design on my first use."
+    },
+    {
+      "id": 87,
+      "category": "hydration",
+      "name": "Lightweight 1 L bottle",
+      "color": "navy",
+      "price": 749,
+      "features": [
+        "lightweight",
+        "1 l"
+      ],
+      "sizes": [],
+      "stock": 13,
+      "sku": "TG-087",
+      "brand": "Stridefield",
+      "weight_g": 160,
+      "material": "Tritan copolyester",
+      "warranty": "6 months",
+      "specification": "1 L with carry loop",
+      "use_case": "Long workouts and day hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/087.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 3,
+      "review": "Liked the lightweight design on my first use."
+    },
+    {
+      "id": 88,
+      "category": "hydration",
+      "name": "Lightweight 1 L bottle",
+      "color": "olive",
+      "price": 849,
+      "features": [
+        "lightweight",
+        "1 l"
+      ],
+      "sizes": [],
+      "stock": 3,
+      "sku": "TG-088",
+      "brand": "Stridefield",
+      "weight_g": 160,
+      "material": "Tritan copolyester",
+      "warranty": "6 months",
+      "specification": "1 L with carry loop",
+      "use_case": "Long workouts and day hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/088.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 4,
+      "review": "Liked the lightweight design on my first use."
+    },
+    {
+      "id": 89,
+      "category": "hydration",
+      "name": "Lightweight 1 L bottle",
+      "color": "orange",
+      "price": 949,
+      "features": [
+        "lightweight",
+        "1 l"
+      ],
+      "sizes": [],
+      "stock": 4,
+      "sku": "TG-089",
+      "brand": "Stridefield",
+      "weight_g": 160,
+      "material": "Tritan copolyester",
+      "warranty": "6 months",
+      "specification": "1 L with carry loop",
+      "use_case": "Long workouts and day hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/089.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 5,
+      "review": "Liked the lightweight design on my first use."
+    },
+    {
+      "id": 90,
+      "category": "hydration",
+      "name": "Lightweight 1 L bottle",
+      "color": "grey",
+      "price": 1049,
+      "features": [
+        "lightweight",
+        "1 l"
+      ],
+      "sizes": [],
+      "stock": 0,
+      "sku": "TG-090",
+      "brand": "Stridefield",
+      "weight_g": 160,
+      "material": "Tritan copolyester",
+      "warranty": "6 months",
+      "specification": "1 L with carry loop",
+      "use_case": "Long workouts and day hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/090.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 6,
+      "review": "Liked the lightweight design on my first use."
+    },
+    {
+      "id": 91,
+      "category": "hydration",
+      "name": "Leakproof 500 ml bottle",
+      "color": "black",
+      "price": 549,
+      "features": [
+        "leakproof",
+        "500 ml"
+      ],
+      "sizes": [],
+      "stock": 6,
+      "sku": "TG-091",
+      "brand": "Campfield",
+      "weight_g": 145,
+      "material": "Polypropylene and silicone",
+      "warranty": "6 months",
+      "specification": "500 ml with locking lid",
+      "use_case": "Compact everyday carry",
+      "returns": "30 days for unused items",
+      "image": "/static/products/091.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 2,
+      "review": "Liked the leakproof design on my first use."
+    },
+    {
+      "id": 92,
+      "category": "hydration",
+      "name": "Leakproof 500 ml bottle",
+      "color": "navy",
+      "price": 649,
+      "features": [
+        "leakproof",
+        "500 ml"
+      ],
+      "sizes": [],
+      "stock": 7,
+      "sku": "TG-092",
+      "brand": "Campfield",
+      "weight_g": 145,
+      "material": "Polypropylene and silicone",
+      "warranty": "6 months",
+      "specification": "500 ml with locking lid",
+      "use_case": "Compact everyday carry",
+      "returns": "30 days for unused items",
+      "image": "/static/products/092.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 3,
+      "review": "Liked the leakproof design on my first use."
+    },
+    {
+      "id": 93,
+      "category": "hydration",
+      "name": "Leakproof 500 ml bottle",
+      "color": "olive",
+      "price": 749,
+      "features": [
+        "leakproof",
+        "500 ml"
+      ],
+      "sizes": [],
+      "stock": 8,
+      "sku": "TG-093",
+      "brand": "Campfield",
+      "weight_g": 145,
+      "material": "Polypropylene and silicone",
+      "warranty": "6 months",
+      "specification": "500 ml with locking lid",
+      "use_case": "Compact everyday carry",
+      "returns": "30 days for unused items",
+      "image": "/static/products/093.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 4,
+      "review": "Liked the leakproof design on my first use."
+    },
+    {
+      "id": 94,
+      "category": "hydration",
+      "name": "Leakproof 500 ml bottle",
+      "color": "orange",
+      "price": 849,
+      "features": [
+        "leakproof",
+        "500 ml"
+      ],
+      "sizes": [],
+      "stock": 9,
+      "sku": "TG-094",
+      "brand": "Campfield",
+      "weight_g": 145,
+      "material": "Polypropylene and silicone",
+      "warranty": "6 months",
+      "specification": "500 ml with locking lid",
+      "use_case": "Compact everyday carry",
+      "returns": "30 days for unused items",
+      "image": "/static/products/094.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 5,
+      "review": "Liked the leakproof design on my first use."
+    },
+    {
+      "id": 95,
+      "category": "hydration",
+      "name": "Leakproof 500 ml bottle",
+      "color": "grey",
+      "price": 949,
+      "features": [
+        "leakproof",
+        "500 ml"
+      ],
+      "sizes": [],
+      "stock": 0,
+      "sku": "TG-095",
+      "brand": "Campfield",
+      "weight_g": 145,
+      "material": "Polypropylene and silicone",
+      "warranty": "6 months",
+      "specification": "500 ml with locking lid",
+      "use_case": "Compact everyday carry",
+      "returns": "30 days for unused items",
+      "image": "/static/products/095.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 6,
+      "review": "Liked the leakproof design on my first use."
+    },
+    {
+      "id": 96,
+      "category": "hydration",
+      "name": "2 L hydration pack",
+      "color": "black",
+      "price": 2199,
+      "features": [
+        "2 l",
+        "lightweight"
+      ],
+      "sizes": [],
+      "stock": 11,
+      "sku": "TG-096",
+      "brand": "Ridgecraft",
+      "weight_g": 470,
+      "material": "Ripstop nylon and TPU",
+      "warranty": "12 months",
+      "specification": "2 L reservoir with drinking tube",
+      "use_case": "Hands-free hydration",
+      "returns": "30 days for unused items",
+      "image": "/static/products/096.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 2,
+      "review": "Liked the 2 l design on my first use."
+    },
+    {
+      "id": 97,
+      "category": "hydration",
+      "name": "2 L hydration pack",
+      "color": "navy",
+      "price": 2299,
+      "features": [
+        "2 l",
+        "lightweight"
+      ],
+      "sizes": [],
+      "stock": 12,
+      "sku": "TG-097",
+      "brand": "Ridgecraft",
+      "weight_g": 470,
+      "material": "Ripstop nylon and TPU",
+      "warranty": "12 months",
+      "specification": "2 L reservoir with drinking tube",
+      "use_case": "Hands-free hydration",
+      "returns": "30 days for unused items",
+      "image": "/static/products/097.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 3,
+      "review": "Liked the 2 l design on my first use."
+    },
+    {
+      "id": 98,
+      "category": "hydration",
+      "name": "2 L hydration pack",
+      "color": "olive",
+      "price": 2399,
+      "features": [
+        "2 l",
+        "lightweight"
+      ],
+      "sizes": [],
+      "stock": 13,
+      "sku": "TG-098",
+      "brand": "Ridgecraft",
+      "weight_g": 470,
+      "material": "Ripstop nylon and TPU",
+      "warranty": "12 months",
+      "specification": "2 L reservoir with drinking tube",
+      "use_case": "Hands-free hydration",
+      "returns": "30 days for unused items",
+      "image": "/static/products/098.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 4,
+      "review": "Liked the 2 l design on my first use."
+    },
+    {
+      "id": 99,
+      "category": "hydration",
+      "name": "2 L hydration pack",
+      "color": "orange",
+      "price": 2499,
+      "features": [
+        "2 l",
+        "lightweight"
+      ],
+      "sizes": [],
+      "stock": 3,
+      "sku": "TG-099",
+      "brand": "Ridgecraft",
+      "weight_g": 470,
+      "material": "Ripstop nylon and TPU",
+      "warranty": "12 months",
+      "specification": "2 L reservoir with drinking tube",
+      "use_case": "Hands-free hydration",
+      "returns": "30 days for unused items",
+      "image": "/static/products/099.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 5,
+      "review": "Liked the 2 l design on my first use."
+    },
+    {
+      "id": 100,
+      "category": "hydration",
+      "name": "2 L hydration pack",
+      "color": "grey",
+      "price": 2599,
+      "features": [
+        "2 l",
+        "lightweight"
+      ],
+      "sizes": [],
+      "stock": 0,
+      "sku": "TG-100",
+      "brand": "Ridgecraft",
+      "weight_g": 470,
+      "material": "Ripstop nylon and TPU",
+      "warranty": "12 months",
+      "specification": "2 L reservoir with drinking tube",
+      "use_case": "Hands-free hydration",
+      "returns": "30 days for unused items",
+      "image": "/static/products/100.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 6,
+      "review": "Liked the 2 l design on my first use."
+    },
+    {
+      "id": 101,
+      "category": "home fitness",
+      "name": "Beginner resistance band set",
+      "color": "black",
+      "price": 849,
+      "features": [
+        "beginner",
+        "low impact"
+      ],
+      "sizes": [],
+      "stock": 5,
+      "sku": "TG-101",
+      "brand": "Stridefield",
+      "weight_g": 270,
+      "material": "Natural latex",
+      "warranty": "6 months",
+      "specification": "Three bands from light to heavy",
+      "use_case": "Introductory home workouts",
+      "returns": "30 days for unused items",
+      "image": "/static/products/101.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 2,
+      "review": "Liked the beginner design on my first use."
+    },
+    {
+      "id": 102,
+      "category": "home fitness",
+      "name": "Beginner resistance band set",
+      "color": "navy",
+      "price": 949,
+      "features": [
+        "beginner",
+        "low impact"
+      ],
+      "sizes": [],
+      "stock": 6,
+      "sku": "TG-102",
+      "brand": "Stridefield",
+      "weight_g": 270,
+      "material": "Natural latex",
+      "warranty": "6 months",
+      "specification": "Three bands from light to heavy",
+      "use_case": "Introductory home workouts",
+      "returns": "30 days for unused items",
+      "image": "/static/products/102.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 3,
+      "review": "Liked the beginner design on my first use."
+    },
+    {
+      "id": 103,
+      "category": "home fitness",
+      "name": "Beginner resistance band set",
+      "color": "olive",
+      "price": 1049,
+      "features": [
+        "beginner",
+        "low impact"
+      ],
+      "sizes": [],
+      "stock": 7,
+      "sku": "TG-103",
+      "brand": "Stridefield",
+      "weight_g": 270,
+      "material": "Natural latex",
+      "warranty": "6 months",
+      "specification": "Three bands from light to heavy",
+      "use_case": "Introductory home workouts",
+      "returns": "30 days for unused items",
+      "image": "/static/products/103.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 4,
+      "review": "Liked the beginner design on my first use."
+    },
+    {
+      "id": 104,
+      "category": "home fitness",
+      "name": "Beginner resistance band set",
+      "color": "orange",
+      "price": 1149,
+      "features": [
+        "beginner",
+        "low impact"
+      ],
+      "sizes": [],
+      "stock": 8,
+      "sku": "TG-104",
+      "brand": "Stridefield",
+      "weight_g": 270,
+      "material": "Natural latex",
+      "warranty": "6 months",
+      "specification": "Three bands from light to heavy",
+      "use_case": "Introductory home workouts",
+      "returns": "30 days for unused items",
+      "image": "/static/products/104.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 5,
+      "review": "Liked the beginner design on my first use."
+    },
+    {
+      "id": 105,
+      "category": "home fitness",
+      "name": "Beginner resistance band set",
+      "color": "grey",
+      "price": 1249,
+      "features": [
+        "beginner",
+        "low impact"
+      ],
+      "sizes": [],
+      "stock": 0,
+      "sku": "TG-105",
+      "brand": "Stridefield",
+      "weight_g": 270,
+      "material": "Natural latex",
+      "warranty": "6 months",
+      "specification": "Three bands from light to heavy",
+      "use_case": "Introductory home workouts",
+      "returns": "30 days for unused items",
+      "image": "/static/products/105.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 6,
+      "review": "Liked the beginner design on my first use."
+    },
+    {
+      "id": 106,
+      "category": "home fitness",
+      "name": "Cushioned exercise mat",
+      "color": "black",
+      "price": 1199,
+      "features": [
+        "cushioned",
+        "low impact"
+      ],
+      "sizes": [],
+      "stock": 10,
+      "sku": "TG-106",
+      "brand": "Stridefield",
+      "weight_g": 790,
+      "material": "TPE foam",
+      "warranty": "6 months",
+      "specification": "8 mm thick, 183 × 61 cm",
+      "use_case": "Floor exercises and stretching",
+      "returns": "30 days for unused items",
+      "image": "/static/products/106.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 2,
+      "review": "Liked the cushioned design on my first use."
+    },
+    {
+      "id": 107,
+      "category": "home fitness",
+      "name": "Cushioned exercise mat",
+      "color": "navy",
+      "price": 1299,
+      "features": [
+        "cushioned",
+        "low impact"
+      ],
+      "sizes": [],
+      "stock": 11,
+      "sku": "TG-107",
+      "brand": "Stridefield",
+      "weight_g": 790,
+      "material": "TPE foam",
+      "warranty": "6 months",
+      "specification": "8 mm thick, 183 × 61 cm",
+      "use_case": "Floor exercises and stretching",
+      "returns": "30 days for unused items",
+      "image": "/static/products/107.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 3,
+      "review": "Liked the cushioned design on my first use."
+    },
+    {
+      "id": 108,
+      "category": "home fitness",
+      "name": "Cushioned exercise mat",
+      "color": "olive",
+      "price": 1399,
+      "features": [
+        "cushioned",
+        "low impact"
+      ],
+      "sizes": [],
+      "stock": 12,
+      "sku": "TG-108",
+      "brand": "Stridefield",
+      "weight_g": 790,
+      "material": "TPE foam",
+      "warranty": "6 months",
+      "specification": "8 mm thick, 183 × 61 cm",
+      "use_case": "Floor exercises and stretching",
+      "returns": "30 days for unused items",
+      "image": "/static/products/108.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 4,
+      "review": "Liked the cushioned design on my first use."
+    },
+    {
+      "id": 109,
+      "category": "home fitness",
+      "name": "Cushioned exercise mat",
+      "color": "orange",
+      "price": 1499,
+      "features": [
+        "cushioned",
+        "low impact"
+      ],
+      "sizes": [],
+      "stock": 13,
+      "sku": "TG-109",
+      "brand": "Stridefield",
+      "weight_g": 790,
+      "material": "TPE foam",
+      "warranty": "6 months",
+      "specification": "8 mm thick, 183 × 61 cm",
+      "use_case": "Floor exercises and stretching",
+      "returns": "30 days for unused items",
+      "image": "/static/products/109.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 5,
+      "review": "Liked the cushioned design on my first use."
+    },
+    {
+      "id": 110,
+      "category": "home fitness",
+      "name": "Cushioned exercise mat",
+      "color": "grey",
+      "price": 1599,
+      "features": [
+        "cushioned",
+        "low impact"
+      ],
+      "sizes": [],
+      "stock": 0,
+      "sku": "TG-110",
+      "brand": "Stridefield",
+      "weight_g": 790,
+      "material": "TPE foam",
+      "warranty": "6 months",
+      "specification": "8 mm thick, 183 × 61 cm",
+      "use_case": "Floor exercises and stretching",
+      "returns": "30 days for unused items",
+      "image": "/static/products/110.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 6,
+      "review": "Liked the cushioned design on my first use."
+    },
+    {
+      "id": 111,
+      "category": "home fitness",
+      "name": "Textured foam roller",
+      "color": "black",
+      "price": 949,
+      "features": [
+        "textured",
+        "recovery"
+      ],
+      "sizes": [],
+      "stock": 4,
+      "sku": "TG-111",
+      "brand": "Stridefield",
+      "weight_g": 420,
+      "material": "EVA foam and ABS",
+      "warranty": "6 months",
+      "specification": "33 cm long with firm texture",
+      "use_case": "Post-workout mobility",
+      "returns": "30 days for unused items",
+      "image": "/static/products/111.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 2,
+      "review": "Liked the textured design on my first use."
+    },
+    {
+      "id": 112,
+      "category": "home fitness",
+      "name": "Textured foam roller",
+      "color": "navy",
+      "price": 1049,
+      "features": [
+        "textured",
+        "recovery"
+      ],
+      "sizes": [],
+      "stock": 5,
+      "sku": "TG-112",
+      "brand": "Stridefield",
+      "weight_g": 420,
+      "material": "EVA foam and ABS",
+      "warranty": "6 months",
+      "specification": "33 cm long with firm texture",
+      "use_case": "Post-workout mobility",
+      "returns": "30 days for unused items",
+      "image": "/static/products/112.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 3,
+      "review": "Liked the textured design on my first use."
+    },
+    {
+      "id": 113,
+      "category": "home fitness",
+      "name": "Textured foam roller",
+      "color": "olive",
+      "price": 1149,
+      "features": [
+        "textured",
+        "recovery"
+      ],
+      "sizes": [],
+      "stock": 6,
+      "sku": "TG-113",
+      "brand": "Stridefield",
+      "weight_g": 420,
+      "material": "EVA foam and ABS",
+      "warranty": "6 months",
+      "specification": "33 cm long with firm texture",
+      "use_case": "Post-workout mobility",
+      "returns": "30 days for unused items",
+      "image": "/static/products/113.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 4,
+      "review": "Liked the textured design on my first use."
+    },
+    {
+      "id": 114,
+      "category": "home fitness",
+      "name": "Textured foam roller",
+      "color": "orange",
+      "price": 1249,
+      "features": [
+        "textured",
+        "recovery"
+      ],
+      "sizes": [],
+      "stock": 7,
+      "sku": "TG-114",
+      "brand": "Stridefield",
+      "weight_g": 420,
+      "material": "EVA foam and ABS",
+      "warranty": "6 months",
+      "specification": "33 cm long with firm texture",
+      "use_case": "Post-workout mobility",
+      "returns": "30 days for unused items",
+      "image": "/static/products/114.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 5,
+      "review": "Liked the textured design on my first use."
+    },
+    {
+      "id": 115,
+      "category": "home fitness",
+      "name": "Textured foam roller",
+      "color": "grey",
+      "price": 1349,
+      "features": [
+        "textured",
+        "recovery"
+      ],
+      "sizes": [],
+      "stock": 0,
+      "sku": "TG-115",
+      "brand": "Stridefield",
+      "weight_g": 420,
+      "material": "EVA foam and ABS",
+      "warranty": "6 months",
+      "specification": "33 cm long with firm texture",
+      "use_case": "Post-workout mobility",
+      "returns": "30 days for unused items",
+      "image": "/static/products/115.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 6,
+      "review": "Liked the textured design on my first use."
+    },
+    {
+      "id": 116,
+      "category": "home fitness",
+      "name": "Compact pedal exerciser",
+      "color": "black",
+      "price": 3699,
+      "features": [
+        "low impact",
+        "compact"
+      ],
+      "sizes": [],
+      "stock": 9,
+      "sku": "TG-116",
+      "brand": "Summit Works",
+      "weight_g": 2600,
+      "material": "Powder-coated steel",
+      "warranty": "12 months",
+      "specification": "Adjustable resistance and LCD counter",
+      "use_case": "Seated exercise",
+      "returns": "30 days for unused items",
+      "image": "/static/products/116.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 2,
+      "review": "Liked the low impact design on my first use."
+    },
+    {
+      "id": 117,
+      "category": "home fitness",
+      "name": "Compact pedal exerciser",
+      "color": "navy",
+      "price": 3799,
+      "features": [
+        "low impact",
+        "compact"
+      ],
+      "sizes": [],
+      "stock": 10,
+      "sku": "TG-117",
+      "brand": "Summit Works",
+      "weight_g": 2600,
+      "material": "Powder-coated steel",
+      "warranty": "12 months",
+      "specification": "Adjustable resistance and LCD counter",
+      "use_case": "Seated exercise",
+      "returns": "30 days for unused items",
+      "image": "/static/products/117.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 3,
+      "review": "Liked the low impact design on my first use."
+    },
+    {
+      "id": 118,
+      "category": "home fitness",
+      "name": "Compact pedal exerciser",
+      "color": "olive",
+      "price": 3899,
+      "features": [
+        "low impact",
+        "compact"
+      ],
+      "sizes": [],
+      "stock": 11,
+      "sku": "TG-118",
+      "brand": "Summit Works",
+      "weight_g": 2600,
+      "material": "Powder-coated steel",
+      "warranty": "12 months",
+      "specification": "Adjustable resistance and LCD counter",
+      "use_case": "Seated exercise",
+      "returns": "30 days for unused items",
+      "image": "/static/products/118.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 4,
+      "review": "Liked the low impact design on my first use."
+    },
+    {
+      "id": 119,
+      "category": "home fitness",
+      "name": "Compact pedal exerciser",
+      "color": "orange",
+      "price": 3999,
+      "features": [
+        "low impact",
+        "compact"
+      ],
+      "sizes": [],
+      "stock": 12,
+      "sku": "TG-119",
+      "brand": "Summit Works",
+      "weight_g": 2600,
+      "material": "Powder-coated steel",
+      "warranty": "12 months",
+      "specification": "Adjustable resistance and LCD counter",
+      "use_case": "Seated exercise",
+      "returns": "30 days for unused items",
+      "image": "/static/products/119.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 5,
+      "review": "Liked the low impact design on my first use."
+    },
+    {
+      "id": 120,
+      "category": "home fitness",
+      "name": "Compact pedal exerciser",
+      "color": "grey",
+      "price": 4099,
+      "features": [
+        "low impact",
+        "compact"
+      ],
+      "sizes": [],
+      "stock": 0,
+      "sku": "TG-120",
+      "brand": "Summit Works",
+      "weight_g": 2600,
+      "material": "Powder-coated steel",
+      "warranty": "12 months",
+      "specification": "Adjustable resistance and LCD counter",
+      "use_case": "Seated exercise",
+      "returns": "30 days for unused items",
+      "image": "/static/products/120.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 6,
+      "review": "Liked the low impact design on my first use."
+    },
+    {
+      "id": 121,
+      "category": "hiking footwear",
+      "name": "Rain Ridge mid boots",
+      "color": "black",
+      "price": 3475,
+      "features": [
+        "waterproof",
+        "ankle support",
+        "extra grip"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        11
+      ],
+      "stock": 3,
+      "sku": "TG-121",
+      "brand": "Summit Works",
+      "weight_g": 960,
+      "material": "Coated nubuck and rubber",
+      "warranty": "18 months",
+      "specification": "Waterproof lining, high-traction outsole",
+      "use_case": "Wet and rocky hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/121.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 2,
+      "review": "Liked the waterproof design on my first use."
+    },
+    {
+      "id": 122,
+      "category": "hiking footwear",
+      "name": "Rain Ridge mid boots",
+      "color": "navy",
+      "price": 3575,
+      "features": [
+        "waterproof",
+        "ankle support",
+        "extra grip"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        10,
+        11
+      ],
+      "stock": 4,
+      "sku": "TG-122",
+      "brand": "Summit Works",
+      "weight_g": 960,
+      "material": "Coated nubuck and rubber",
+      "warranty": "18 months",
+      "specification": "Waterproof lining, high-traction outsole",
+      "use_case": "Wet and rocky hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/122.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 3,
+      "review": "Liked the waterproof design on my first use."
+    },
+    {
+      "id": 123,
+      "category": "hiking footwear",
+      "name": "Rain Ridge mid boots",
+      "color": "olive",
+      "price": 3675,
+      "features": [
+        "waterproof",
+        "ankle support",
+        "extra grip"
+      ],
+      "sizes": [
+        6,
+        7,
+        9,
+        10,
+        11
+      ],
+      "stock": 5,
+      "sku": "TG-123",
+      "brand": "Summit Works",
+      "weight_g": 960,
+      "material": "Coated nubuck and rubber",
+      "warranty": "18 months",
+      "specification": "Waterproof lining, high-traction outsole",
+      "use_case": "Wet and rocky hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/123.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 4,
+      "review": "Liked the waterproof design on my first use."
+    },
+    {
+      "id": 124,
+      "category": "hiking footwear",
+      "name": "Rain Ridge mid boots",
+      "color": "orange",
+      "price": 3775,
+      "features": [
+        "waterproof",
+        "ankle support",
+        "extra grip"
+      ],
+      "sizes": [
+        6,
+        8,
+        9,
+        10,
+        11
+      ],
+      "stock": 6,
+      "sku": "TG-124",
+      "brand": "Summit Works",
+      "weight_g": 960,
+      "material": "Coated nubuck and rubber",
+      "warranty": "18 months",
+      "specification": "Waterproof lining, high-traction outsole",
+      "use_case": "Wet and rocky hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/124.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 5,
+      "review": "Liked the waterproof design on my first use."
+    },
+    {
+      "id": 125,
+      "category": "hiking footwear",
+      "name": "Rain Ridge mid boots",
+      "color": "grey",
+      "price": 3875,
+      "features": [
+        "waterproof",
+        "ankle support",
+        "extra grip"
+      ],
+      "sizes": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "stock": 0,
+      "sku": "TG-125",
+      "brand": "Summit Works",
+      "weight_g": 960,
+      "material": "Coated nubuck and rubber",
+      "warranty": "18 months",
+      "specification": "Waterproof lining, high-traction outsole",
+      "use_case": "Wet and rocky hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/125.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 6,
+      "review": "Liked the waterproof design on my first use."
+    },
+    {
+      "id": 126,
+      "category": "hiking footwear",
+      "name": "Brookstep waterproof trail shoes",
+      "color": "black",
+      "price": 3175,
+      "features": [
+        "waterproof",
+        "lightweight",
+        "cushioned"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        11
+      ],
+      "stock": 8,
+      "sku": "TG-126",
+      "brand": "Stridefield",
+      "weight_g": 610,
+      "material": "Coated mesh and EVA",
+      "warranty": "12 months",
+      "specification": "Sealed seams with cushioned footbed",
+      "use_case": "Easy walks and rainy day hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/126.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 2,
+      "review": "Liked the waterproof design on my first use."
+    },
+    {
+      "id": 127,
+      "category": "hiking footwear",
+      "name": "Brookstep waterproof trail shoes",
+      "color": "navy",
+      "price": 3275,
+      "features": [
+        "waterproof",
+        "lightweight",
+        "cushioned"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        10,
+        11
+      ],
+      "stock": 9,
+      "sku": "TG-127",
+      "brand": "Stridefield",
+      "weight_g": 610,
+      "material": "Coated mesh and EVA",
+      "warranty": "12 months",
+      "specification": "Sealed seams with cushioned footbed",
+      "use_case": "Easy walks and rainy day hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/127.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 3,
+      "review": "Liked the waterproof design on my first use."
+    },
+    {
+      "id": 128,
+      "category": "hiking footwear",
+      "name": "Brookstep waterproof trail shoes",
+      "color": "olive",
+      "price": 3375,
+      "features": [
+        "waterproof",
+        "lightweight",
+        "cushioned"
+      ],
+      "sizes": [
+        6,
+        7,
+        9,
+        10,
+        11
+      ],
+      "stock": 10,
+      "sku": "TG-128",
+      "brand": "Stridefield",
+      "weight_g": 610,
+      "material": "Coated mesh and EVA",
+      "warranty": "12 months",
+      "specification": "Sealed seams with cushioned footbed",
+      "use_case": "Easy walks and rainy day hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/128.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 4,
+      "review": "Liked the waterproof design on my first use."
+    },
+    {
+      "id": 129,
+      "category": "hiking footwear",
+      "name": "Brookstep waterproof trail shoes",
+      "color": "orange",
+      "price": 3475,
+      "features": [
+        "waterproof",
+        "lightweight",
+        "cushioned"
+      ],
+      "sizes": [
+        6,
+        8,
+        9,
+        10,
+        11
+      ],
+      "stock": 11,
+      "sku": "TG-129",
+      "brand": "Stridefield",
+      "weight_g": 610,
+      "material": "Coated mesh and EVA",
+      "warranty": "12 months",
+      "specification": "Sealed seams with cushioned footbed",
+      "use_case": "Easy walks and rainy day hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/129.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 5,
+      "review": "Liked the waterproof design on my first use."
+    },
+    {
+      "id": 130,
+      "category": "hiking footwear",
+      "name": "Brookstep waterproof trail shoes",
+      "color": "grey",
+      "price": 3575,
+      "features": [
+        "waterproof",
+        "lightweight",
+        "cushioned"
+      ],
+      "sizes": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "stock": 0,
+      "sku": "TG-130",
+      "brand": "Stridefield",
+      "weight_g": 610,
+      "material": "Coated mesh and EVA",
+      "warranty": "12 months",
+      "specification": "Sealed seams with cushioned footbed",
+      "use_case": "Easy walks and rainy day hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/130.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 6,
+      "review": "Liked the waterproof design on my first use."
+    },
+    {
+      "id": 131,
+      "category": "trekking poles",
+      "name": "Trailbrace aluminum poles",
+      "color": "black",
+      "price": 2090,
+      "features": [
+        "aluminum",
+        "adjustable",
+        "shock absorbing"
+      ],
+      "sizes": [],
+      "stock": 13,
+      "sku": "TG-131",
+      "brand": "Summit Works",
+      "weight_g": 580,
+      "material": "7075 aluminum with cork handles",
+      "warranty": "18 months",
+      "specification": "Adjustable 105–135 cm, built-in spring",
+      "use_case": "Hikes on mixed surfaces",
+      "returns": "30 days for unused items",
+      "image": "/static/products/131.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 2,
+      "review": "Liked the aluminum design on my first use."
+    },
+    {
+      "id": 132,
+      "category": "trekking poles",
+      "name": "Trailbrace aluminum poles",
+      "color": "navy",
+      "price": 2190,
+      "features": [
+        "aluminum",
+        "adjustable",
+        "shock absorbing"
+      ],
+      "sizes": [],
+      "stock": 3,
+      "sku": "TG-132",
+      "brand": "Summit Works",
+      "weight_g": 580,
+      "material": "7075 aluminum with cork handles",
+      "warranty": "18 months",
+      "specification": "Adjustable 105–135 cm, built-in spring",
+      "use_case": "Hikes on mixed surfaces",
+      "returns": "30 days for unused items",
+      "image": "/static/products/132.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 3,
+      "review": "Liked the aluminum design on my first use."
+    },
+    {
+      "id": 133,
+      "category": "trekking poles",
+      "name": "Trailbrace aluminum poles",
+      "color": "olive",
+      "price": 2290,
+      "features": [
+        "aluminum",
+        "adjustable",
+        "shock absorbing"
+      ],
+      "sizes": [],
+      "stock": 4,
+      "sku": "TG-133",
+      "brand": "Summit Works",
+      "weight_g": 580,
+      "material": "7075 aluminum with cork handles",
+      "warranty": "18 months",
+      "specification": "Adjustable 105–135 cm, built-in spring",
+      "use_case": "Hikes on mixed surfaces",
+      "returns": "30 days for unused items",
+      "image": "/static/products/133.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 4,
+      "review": "Liked the aluminum design on my first use."
+    },
+    {
+      "id": 134,
+      "category": "trekking poles",
+      "name": "Trailbrace aluminum poles",
+      "color": "orange",
+      "price": 2390,
+      "features": [
+        "aluminum",
+        "adjustable",
+        "shock absorbing"
+      ],
+      "sizes": [],
+      "stock": 5,
+      "sku": "TG-134",
+      "brand": "Summit Works",
+      "weight_g": 580,
+      "material": "7075 aluminum with cork handles",
+      "warranty": "18 months",
+      "specification": "Adjustable 105–135 cm, built-in spring",
+      "use_case": "Hikes on mixed surfaces",
+      "returns": "30 days for unused items",
+      "image": "/static/products/134.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 5,
+      "review": "Liked the aluminum design on my first use."
+    },
+    {
+      "id": 135,
+      "category": "trekking poles",
+      "name": "Trailbrace aluminum poles",
+      "color": "grey",
+      "price": 2490,
+      "features": [
+        "aluminum",
+        "adjustable",
+        "shock absorbing"
+      ],
+      "sizes": [],
+      "stock": 0,
+      "sku": "TG-135",
+      "brand": "Summit Works",
+      "weight_g": 580,
+      "material": "7075 aluminum with cork handles",
+      "warranty": "18 months",
+      "specification": "Adjustable 105–135 cm, built-in spring",
+      "use_case": "Hikes on mixed surfaces",
+      "returns": "30 days for unused items",
+      "image": "/static/products/135.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 6,
+      "review": "Liked the aluminum design on my first use."
+    },
+    {
+      "id": 136,
+      "category": "trekking poles",
+      "name": "Skyfold carbon poles",
+      "color": "black",
+      "price": 3690,
+      "features": [
+        "carbon",
+        "foldable",
+        "lightweight"
+      ],
+      "sizes": [],
+      "stock": 7,
+      "sku": "TG-136",
+      "brand": "Trailform",
+      "weight_g": 345,
+      "material": "Carbon fiber and EVA",
+      "warranty": "24 months",
+      "specification": "Folds to 34 cm, extends to 128 cm",
+      "use_case": "Travel and longer treks",
+      "returns": "30 days for unused items",
+      "image": "/static/products/136.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 2,
+      "review": "Liked the carbon design on my first use."
+    },
+    {
+      "id": 137,
+      "category": "trekking poles",
+      "name": "Skyfold carbon poles",
+      "color": "navy",
+      "price": 3790,
+      "features": [
+        "carbon",
+        "foldable",
+        "lightweight"
+      ],
+      "sizes": [],
+      "stock": 8,
+      "sku": "TG-137",
+      "brand": "Trailform",
+      "weight_g": 345,
+      "material": "Carbon fiber and EVA",
+      "warranty": "24 months",
+      "specification": "Folds to 34 cm, extends to 128 cm",
+      "use_case": "Travel and longer treks",
+      "returns": "30 days for unused items",
+      "image": "/static/products/137.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 3,
+      "review": "Liked the carbon design on my first use."
+    },
+    {
+      "id": 138,
+      "category": "trekking poles",
+      "name": "Skyfold carbon poles",
+      "color": "olive",
+      "price": 3890,
+      "features": [
+        "carbon",
+        "foldable",
+        "lightweight"
+      ],
+      "sizes": [],
+      "stock": 9,
+      "sku": "TG-138",
+      "brand": "Trailform",
+      "weight_g": 345,
+      "material": "Carbon fiber and EVA",
+      "warranty": "24 months",
+      "specification": "Folds to 34 cm, extends to 128 cm",
+      "use_case": "Travel and longer treks",
+      "returns": "30 days for unused items",
+      "image": "/static/products/138.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 4,
+      "review": "Liked the carbon design on my first use."
+    },
+    {
+      "id": 139,
+      "category": "trekking poles",
+      "name": "Skyfold carbon poles",
+      "color": "orange",
+      "price": 3990,
+      "features": [
+        "carbon",
+        "foldable",
+        "lightweight"
+      ],
+      "sizes": [],
+      "stock": 10,
+      "sku": "TG-139",
+      "brand": "Trailform",
+      "weight_g": 345,
+      "material": "Carbon fiber and EVA",
+      "warranty": "24 months",
+      "specification": "Folds to 34 cm, extends to 128 cm",
+      "use_case": "Travel and longer treks",
+      "returns": "30 days for unused items",
+      "image": "/static/products/139.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 5,
+      "review": "Liked the carbon design on my first use."
+    },
+    {
+      "id": 140,
+      "category": "trekking poles",
+      "name": "Skyfold carbon poles",
+      "color": "grey",
+      "price": 4090,
+      "features": [
+        "carbon",
+        "foldable",
+        "lightweight"
+      ],
+      "sizes": [],
+      "stock": 0,
+      "sku": "TG-140",
+      "brand": "Trailform",
+      "weight_g": 345,
+      "material": "Carbon fiber and EVA",
+      "warranty": "24 months",
+      "specification": "Folds to 34 cm, extends to 128 cm",
+      "use_case": "Travel and longer treks",
+      "returns": "30 days for unused items",
+      "image": "/static/products/140.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 6,
+      "review": "Liked the carbon design on my first use."
+    },
+    {
+      "id": 141,
+      "category": "backpacks",
+      "name": "Rainline 22 L daypack",
+      "color": "black",
+      "price": 2340,
+      "features": [
+        "waterproof",
+        "22 l",
+        "lightweight"
+      ],
+      "sizes": [],
+      "stock": 12,
+      "sku": "TG-141",
+      "brand": "Ridgecraft",
+      "weight_g": 570,
+      "material": "Seam-sealed TPU nylon",
+      "warranty": "18 months",
+      "specification": "22 L, waterproof roll-top, external bottle pocket",
+      "use_case": "Day hikes in wet weather",
+      "returns": "30 days for unused items",
+      "image": "/static/products/141.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 2,
+      "review": "Liked the waterproof design on my first use."
+    },
+    {
+      "id": 142,
+      "category": "backpacks",
+      "name": "Rainline 22 L daypack",
+      "color": "navy",
+      "price": 2440,
+      "features": [
+        "waterproof",
+        "22 l",
+        "lightweight"
+      ],
+      "sizes": [],
+      "stock": 13,
+      "sku": "TG-142",
+      "brand": "Ridgecraft",
+      "weight_g": 570,
+      "material": "Seam-sealed TPU nylon",
+      "warranty": "18 months",
+      "specification": "22 L, waterproof roll-top, external bottle pocket",
+      "use_case": "Day hikes in wet weather",
+      "returns": "30 days for unused items",
+      "image": "/static/products/142.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 3,
+      "review": "Liked the waterproof design on my first use."
+    },
+    {
+      "id": 143,
+      "category": "backpacks",
+      "name": "Rainline 22 L daypack",
+      "color": "olive",
+      "price": 2540,
+      "features": [
+        "waterproof",
+        "22 l",
+        "lightweight"
+      ],
+      "sizes": [],
+      "stock": 3,
+      "sku": "TG-143",
+      "brand": "Ridgecraft",
+      "weight_g": 570,
+      "material": "Seam-sealed TPU nylon",
+      "warranty": "18 months",
+      "specification": "22 L, waterproof roll-top, external bottle pocket",
+      "use_case": "Day hikes in wet weather",
+      "returns": "30 days for unused items",
+      "image": "/static/products/143.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 4,
+      "review": "Liked the waterproof design on my first use."
+    },
+    {
+      "id": 144,
+      "category": "backpacks",
+      "name": "Rainline 22 L daypack",
+      "color": "orange",
+      "price": 2640,
+      "features": [
+        "waterproof",
+        "22 l",
+        "lightweight"
+      ],
+      "sizes": [],
+      "stock": 4,
+      "sku": "TG-144",
+      "brand": "Ridgecraft",
+      "weight_g": 570,
+      "material": "Seam-sealed TPU nylon",
+      "warranty": "18 months",
+      "specification": "22 L, waterproof roll-top, external bottle pocket",
+      "use_case": "Day hikes in wet weather",
+      "returns": "30 days for unused items",
+      "image": "/static/products/144.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 5,
+      "review": "Liked the waterproof design on my first use."
+    },
+    {
+      "id": 145,
+      "category": "backpacks",
+      "name": "Rainline 22 L daypack",
+      "color": "grey",
+      "price": 2740,
+      "features": [
+        "waterproof",
+        "22 l",
+        "lightweight"
+      ],
+      "sizes": [],
+      "stock": 0,
+      "sku": "TG-145",
+      "brand": "Ridgecraft",
+      "weight_g": 570,
+      "material": "Seam-sealed TPU nylon",
+      "warranty": "18 months",
+      "specification": "22 L, waterproof roll-top, external bottle pocket",
+      "use_case": "Day hikes in wet weather",
+      "returns": "30 days for unused items",
+      "image": "/static/products/145.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 6,
+      "review": "Liked the waterproof design on my first use."
+    },
+    {
+      "id": 146,
+      "category": "backpacks",
+      "name": "Canyon 35 L overnight pack",
+      "color": "black",
+      "price": 3990,
+      "features": [
+        "35 l",
+        "extra padding"
+      ],
+      "sizes": [],
+      "stock": 6,
+      "sku": "TG-146",
+      "brand": "Summit Works",
+      "weight_g": 1090,
+      "material": "420D recycled nylon",
+      "warranty": "24 months",
+      "specification": "35 L, padded hip belt and divider",
+      "use_case": "Overnight hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/146.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 2,
+      "review": "Liked the 35 l design on my first use."
+    },
+    {
+      "id": 147,
+      "category": "backpacks",
+      "name": "Canyon 35 L overnight pack",
+      "color": "navy",
+      "price": 4090,
+      "features": [
+        "35 l",
+        "extra padding"
+      ],
+      "sizes": [],
+      "stock": 7,
+      "sku": "TG-147",
+      "brand": "Summit Works",
+      "weight_g": 1090,
+      "material": "420D recycled nylon",
+      "warranty": "24 months",
+      "specification": "35 L, padded hip belt and divider",
+      "use_case": "Overnight hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/147.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 3,
+      "review": "Liked the 35 l design on my first use."
+    },
+    {
+      "id": 148,
+      "category": "backpacks",
+      "name": "Canyon 35 L overnight pack",
+      "color": "olive",
+      "price": 4190,
+      "features": [
+        "35 l",
+        "extra padding"
+      ],
+      "sizes": [],
+      "stock": 8,
+      "sku": "TG-148",
+      "brand": "Summit Works",
+      "weight_g": 1090,
+      "material": "420D recycled nylon",
+      "warranty": "24 months",
+      "specification": "35 L, padded hip belt and divider",
+      "use_case": "Overnight hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/148.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 4,
+      "review": "Liked the 35 l design on my first use."
+    },
+    {
+      "id": 149,
+      "category": "backpacks",
+      "name": "Canyon 35 L overnight pack",
+      "color": "orange",
+      "price": 4290,
+      "features": [
+        "35 l",
+        "extra padding"
+      ],
+      "sizes": [],
+      "stock": 9,
+      "sku": "TG-149",
+      "brand": "Summit Works",
+      "weight_g": 1090,
+      "material": "420D recycled nylon",
+      "warranty": "24 months",
+      "specification": "35 L, padded hip belt and divider",
+      "use_case": "Overnight hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/149.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 5,
+      "review": "Liked the 35 l design on my first use."
+    },
+    {
+      "id": 150,
+      "category": "backpacks",
+      "name": "Canyon 35 L overnight pack",
+      "color": "grey",
+      "price": 4390,
+      "features": [
+        "35 l",
+        "extra padding"
+      ],
+      "sizes": [],
+      "stock": 0,
+      "sku": "TG-150",
+      "brand": "Summit Works",
+      "weight_g": 1090,
+      "material": "420D recycled nylon",
+      "warranty": "24 months",
+      "specification": "35 L, padded hip belt and divider",
+      "use_case": "Overnight hikes",
+      "returns": "30 days for unused items",
+      "image": "/static/products/150.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 6,
+      "review": "Liked the 35 l design on my first use."
+    },
+    {
+      "id": 151,
+      "category": "camping gear",
+      "name": "Solo shelter tent",
+      "color": "black",
+      "price": 3390,
+      "features": [
+        "waterproof",
+        "one person",
+        "lightweight"
+      ],
+      "sizes": [],
+      "stock": 11,
+      "sku": "TG-151",
+      "brand": "Campfield",
+      "weight_g": 1480,
+      "material": "Ripstop polyester and aluminum",
+      "warranty": "18 months",
+      "specification": "One person, 2500 mm rainfly",
+      "use_case": "Solo weekend camping",
+      "returns": "30 days for unused items",
+      "image": "/static/products/151.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 2,
+      "review": "Liked the waterproof design on my first use."
+    },
+    {
+      "id": 152,
+      "category": "camping gear",
+      "name": "Solo shelter tent",
+      "color": "navy",
+      "price": 3490,
+      "features": [
+        "waterproof",
+        "one person",
+        "lightweight"
+      ],
+      "sizes": [],
+      "stock": 12,
+      "sku": "TG-152",
+      "brand": "Campfield",
+      "weight_g": 1480,
+      "material": "Ripstop polyester and aluminum",
+      "warranty": "18 months",
+      "specification": "One person, 2500 mm rainfly",
+      "use_case": "Solo weekend camping",
+      "returns": "30 days for unused items",
+      "image": "/static/products/152.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 3,
+      "review": "Liked the waterproof design on my first use."
+    },
+    {
+      "id": 153,
+      "category": "camping gear",
+      "name": "Solo shelter tent",
+      "color": "olive",
+      "price": 3590,
+      "features": [
+        "waterproof",
+        "one person",
+        "lightweight"
+      ],
+      "sizes": [],
+      "stock": 13,
+      "sku": "TG-153",
+      "brand": "Campfield",
+      "weight_g": 1480,
+      "material": "Ripstop polyester and aluminum",
+      "warranty": "18 months",
+      "specification": "One person, 2500 mm rainfly",
+      "use_case": "Solo weekend camping",
+      "returns": "30 days for unused items",
+      "image": "/static/products/153.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 4,
+      "review": "Liked the waterproof design on my first use."
+    },
+    {
+      "id": 154,
+      "category": "camping gear",
+      "name": "Solo shelter tent",
+      "color": "orange",
+      "price": 3690,
+      "features": [
+        "waterproof",
+        "one person",
+        "lightweight"
+      ],
+      "sizes": [],
+      "stock": 3,
+      "sku": "TG-154",
+      "brand": "Campfield",
+      "weight_g": 1480,
+      "material": "Ripstop polyester and aluminum",
+      "warranty": "18 months",
+      "specification": "One person, 2500 mm rainfly",
+      "use_case": "Solo weekend camping",
+      "returns": "30 days for unused items",
+      "image": "/static/products/154.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 5,
+      "review": "Liked the waterproof design on my first use."
+    },
+    {
+      "id": 155,
+      "category": "camping gear",
+      "name": "Solo shelter tent",
+      "color": "grey",
+      "price": 3790,
+      "features": [
+        "waterproof",
+        "one person",
+        "lightweight"
+      ],
+      "sizes": [],
+      "stock": 0,
+      "sku": "TG-155",
+      "brand": "Campfield",
+      "weight_g": 1480,
+      "material": "Ripstop polyester and aluminum",
+      "warranty": "18 months",
+      "specification": "One person, 2500 mm rainfly",
+      "use_case": "Solo weekend camping",
+      "returns": "30 days for unused items",
+      "image": "/static/products/155.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 6,
+      "review": "Liked the waterproof design on my first use."
+    },
+    {
+      "id": 156,
+      "category": "camping gear",
+      "name": "Trailbeam clip lantern",
+      "color": "black",
+      "price": 1170,
+      "features": [
+        "rechargeable",
+        "compact"
+      ],
+      "sizes": [],
+      "stock": 5,
+      "sku": "TG-156",
+      "brand": "Campfield",
+      "weight_g": 115,
+      "material": "ABS and frosted polycarbonate",
+      "warranty": "12 months",
+      "specification": "170 lumens, up to 8 hours on low",
+      "use_case": "Compact campsite lighting",
+      "returns": "30 days for unused items",
+      "image": "/static/products/156.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 2,
+      "review": "Liked the rechargeable design on my first use."
+    },
+    {
+      "id": 157,
+      "category": "camping gear",
+      "name": "Trailbeam clip lantern",
+      "color": "navy",
+      "price": 1270,
+      "features": [
+        "rechargeable",
+        "compact"
+      ],
+      "sizes": [],
+      "stock": 6,
+      "sku": "TG-157",
+      "brand": "Campfield",
+      "weight_g": 115,
+      "material": "ABS and frosted polycarbonate",
+      "warranty": "12 months",
+      "specification": "170 lumens, up to 8 hours on low",
+      "use_case": "Compact campsite lighting",
+      "returns": "30 days for unused items",
+      "image": "/static/products/157.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 3,
+      "review": "Liked the rechargeable design on my first use."
+    },
+    {
+      "id": 158,
+      "category": "camping gear",
+      "name": "Trailbeam clip lantern",
+      "color": "olive",
+      "price": 1370,
+      "features": [
+        "rechargeable",
+        "compact"
+      ],
+      "sizes": [],
+      "stock": 7,
+      "sku": "TG-158",
+      "brand": "Campfield",
+      "weight_g": 115,
+      "material": "ABS and frosted polycarbonate",
+      "warranty": "12 months",
+      "specification": "170 lumens, up to 8 hours on low",
+      "use_case": "Compact campsite lighting",
+      "returns": "30 days for unused items",
+      "image": "/static/products/158.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 4,
+      "review": "Liked the rechargeable design on my first use."
+    },
+    {
+      "id": 159,
+      "category": "camping gear",
+      "name": "Trailbeam clip lantern",
+      "color": "orange",
+      "price": 1470,
+      "features": [
+        "rechargeable",
+        "compact"
+      ],
+      "sizes": [],
+      "stock": 8,
+      "sku": "TG-159",
+      "brand": "Campfield",
+      "weight_g": 115,
+      "material": "ABS and frosted polycarbonate",
+      "warranty": "12 months",
+      "specification": "170 lumens, up to 8 hours on low",
+      "use_case": "Compact campsite lighting",
+      "returns": "30 days for unused items",
+      "image": "/static/products/159.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 5,
+      "review": "Liked the rechargeable design on my first use."
+    },
+    {
+      "id": 160,
+      "category": "camping gear",
+      "name": "Trailbeam clip lantern",
+      "color": "grey",
+      "price": 1570,
+      "features": [
+        "rechargeable",
+        "compact"
+      ],
+      "sizes": [],
+      "stock": 0,
+      "sku": "TG-160",
+      "brand": "Campfield",
+      "weight_g": 115,
+      "material": "ABS and frosted polycarbonate",
+      "warranty": "12 months",
+      "specification": "170 lumens, up to 8 hours on low",
+      "use_case": "Compact campsite lighting",
+      "returns": "30 days for unused items",
+      "image": "/static/products/160.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 6,
+      "review": "Liked the rechargeable design on my first use."
+    },
+    {
+      "id": 161,
+      "category": "hydration",
+      "name": "Thermo Trail 1 L bottle",
+      "color": "black",
+      "price": 1390,
+      "features": [
+        "insulated",
+        "1 l",
+        "leakproof"
+      ],
+      "sizes": [],
+      "stock": 10,
+      "sku": "TG-161",
+      "brand": "Trailform",
+      "weight_g": 490,
+      "material": "Double-wall stainless steel",
+      "warranty": "18 months",
+      "specification": "1 L, keeps drinks cold up to 24 hours",
+      "use_case": "Long days outdoors",
+      "returns": "30 days for unused items",
+      "image": "/static/products/161.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 2,
+      "review": "Liked the insulated design on my first use."
+    },
+    {
+      "id": 162,
+      "category": "hydration",
+      "name": "Thermo Trail 1 L bottle",
+      "color": "navy",
+      "price": 1490,
+      "features": [
+        "insulated",
+        "1 l",
+        "leakproof"
+      ],
+      "sizes": [],
+      "stock": 11,
+      "sku": "TG-162",
+      "brand": "Trailform",
+      "weight_g": 490,
+      "material": "Double-wall stainless steel",
+      "warranty": "18 months",
+      "specification": "1 L, keeps drinks cold up to 24 hours",
+      "use_case": "Long days outdoors",
+      "returns": "30 days for unused items",
+      "image": "/static/products/162.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 3,
+      "review": "Liked the insulated design on my first use."
+    },
+    {
+      "id": 163,
+      "category": "hydration",
+      "name": "Thermo Trail 1 L bottle",
+      "color": "olive",
+      "price": 1590,
+      "features": [
+        "insulated",
+        "1 l",
+        "leakproof"
+      ],
+      "sizes": [],
+      "stock": 12,
+      "sku": "TG-163",
+      "brand": "Trailform",
+      "weight_g": 490,
+      "material": "Double-wall stainless steel",
+      "warranty": "18 months",
+      "specification": "1 L, keeps drinks cold up to 24 hours",
+      "use_case": "Long days outdoors",
+      "returns": "30 days for unused items",
+      "image": "/static/products/163.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 4,
+      "review": "Liked the insulated design on my first use."
+    },
+    {
+      "id": 164,
+      "category": "hydration",
+      "name": "Thermo Trail 1 L bottle",
+      "color": "orange",
+      "price": 1690,
+      "features": [
+        "insulated",
+        "1 l",
+        "leakproof"
+      ],
+      "sizes": [],
+      "stock": 13,
+      "sku": "TG-164",
+      "brand": "Trailform",
+      "weight_g": 490,
+      "material": "Double-wall stainless steel",
+      "warranty": "18 months",
+      "specification": "1 L, keeps drinks cold up to 24 hours",
+      "use_case": "Long days outdoors",
+      "returns": "30 days for unused items",
+      "image": "/static/products/164.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 5,
+      "review": "Liked the insulated design on my first use."
+    },
+    {
+      "id": 165,
+      "category": "hydration",
+      "name": "Thermo Trail 1 L bottle",
+      "color": "grey",
+      "price": 1790,
+      "features": [
+        "insulated",
+        "1 l",
+        "leakproof"
+      ],
+      "sizes": [],
+      "stock": 0,
+      "sku": "TG-165",
+      "brand": "Trailform",
+      "weight_g": 490,
+      "material": "Double-wall stainless steel",
+      "warranty": "18 months",
+      "specification": "1 L, keeps drinks cold up to 24 hours",
+      "use_case": "Long days outdoors",
+      "returns": "30 days for unused items",
+      "image": "/static/products/165.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 6,
+      "review": "Liked the insulated design on my first use."
+    },
+    {
+      "id": 166,
+      "category": "hydration",
+      "name": "Mist 600 ml squeeze bottle",
+      "color": "black",
+      "price": 520,
+      "features": [
+        "lightweight",
+        "600 ml",
+        "leakproof"
+      ],
+      "sizes": [],
+      "stock": 4,
+      "sku": "TG-166",
+      "brand": "Stridefield",
+      "weight_g": 120,
+      "material": "LDPE with silicone valve",
+      "warranty": "6 months",
+      "specification": "600 ml, squeezable, fits a standard bottle cage",
+      "use_case": "Gym and cycling",
+      "returns": "30 days for unused items",
+      "image": "/static/products/166.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 2,
+      "review": "Liked the lightweight design on my first use."
+    },
+    {
+      "id": 167,
+      "category": "hydration",
+      "name": "Mist 600 ml squeeze bottle",
+      "color": "navy",
+      "price": 620,
+      "features": [
+        "lightweight",
+        "600 ml",
+        "leakproof"
+      ],
+      "sizes": [],
+      "stock": 5,
+      "sku": "TG-167",
+      "brand": "Stridefield",
+      "weight_g": 120,
+      "material": "LDPE with silicone valve",
+      "warranty": "6 months",
+      "specification": "600 ml, squeezable, fits a standard bottle cage",
+      "use_case": "Gym and cycling",
+      "returns": "30 days for unused items",
+      "image": "/static/products/167.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 3,
+      "review": "Liked the lightweight design on my first use."
+    },
+    {
+      "id": 168,
+      "category": "hydration",
+      "name": "Mist 600 ml squeeze bottle",
+      "color": "olive",
+      "price": 720,
+      "features": [
+        "lightweight",
+        "600 ml",
+        "leakproof"
+      ],
+      "sizes": [],
+      "stock": 6,
+      "sku": "TG-168",
+      "brand": "Stridefield",
+      "weight_g": 120,
+      "material": "LDPE with silicone valve",
+      "warranty": "6 months",
+      "specification": "600 ml, squeezable, fits a standard bottle cage",
+      "use_case": "Gym and cycling",
+      "returns": "30 days for unused items",
+      "image": "/static/products/168.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 4,
+      "review": "Liked the lightweight design on my first use."
+    },
+    {
+      "id": 169,
+      "category": "hydration",
+      "name": "Mist 600 ml squeeze bottle",
+      "color": "orange",
+      "price": 820,
+      "features": [
+        "lightweight",
+        "600 ml",
+        "leakproof"
+      ],
+      "sizes": [],
+      "stock": 7,
+      "sku": "TG-169",
+      "brand": "Stridefield",
+      "weight_g": 120,
+      "material": "LDPE with silicone valve",
+      "warranty": "6 months",
+      "specification": "600 ml, squeezable, fits a standard bottle cage",
+      "use_case": "Gym and cycling",
+      "returns": "30 days for unused items",
+      "image": "/static/products/169.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 5,
+      "review": "Liked the lightweight design on my first use."
+    },
+    {
+      "id": 170,
+      "category": "hydration",
+      "name": "Mist 600 ml squeeze bottle",
+      "color": "grey",
+      "price": 920,
+      "features": [
+        "lightweight",
+        "600 ml",
+        "leakproof"
+      ],
+      "sizes": [],
+      "stock": 0,
+      "sku": "TG-170",
+      "brand": "Stridefield",
+      "weight_g": 120,
+      "material": "LDPE with silicone valve",
+      "warranty": "6 months",
+      "specification": "600 ml, squeezable, fits a standard bottle cage",
+      "use_case": "Gym and cycling",
+      "returns": "30 days for unused items",
+      "image": "/static/products/170.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 6,
+      "review": "Liked the lightweight design on my first use."
+    },
+    {
+      "id": 171,
+      "category": "home fitness",
+      "name": "Softstep folding exercise mat",
+      "color": "black",
+      "price": 1580,
+      "features": [
+        "cushioned",
+        "low impact",
+        "foldable"
+      ],
+      "sizes": [],
+      "stock": 9,
+      "sku": "TG-171",
+      "brand": "Stridefield",
+      "weight_g": 980,
+      "material": "TPE foam and polyester",
+      "warranty": "12 months",
+      "specification": "10 mm thick, folds into four panels",
+      "use_case": "Stretching and floor exercises",
+      "returns": "30 days for unused items",
+      "image": "/static/products/171.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 2,
+      "review": "Liked the cushioned design on my first use."
+    },
+    {
+      "id": 172,
+      "category": "home fitness",
+      "name": "Softstep folding exercise mat",
+      "color": "navy",
+      "price": 1680,
+      "features": [
+        "cushioned",
+        "low impact",
+        "foldable"
+      ],
+      "sizes": [],
+      "stock": 10,
+      "sku": "TG-172",
+      "brand": "Stridefield",
+      "weight_g": 980,
+      "material": "TPE foam and polyester",
+      "warranty": "12 months",
+      "specification": "10 mm thick, folds into four panels",
+      "use_case": "Stretching and floor exercises",
+      "returns": "30 days for unused items",
+      "image": "/static/products/172.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 3,
+      "review": "Liked the cushioned design on my first use."
+    },
+    {
+      "id": 173,
+      "category": "home fitness",
+      "name": "Softstep folding exercise mat",
+      "color": "olive",
+      "price": 1780,
+      "features": [
+        "cushioned",
+        "low impact",
+        "foldable"
+      ],
+      "sizes": [],
+      "stock": 11,
+      "sku": "TG-173",
+      "brand": "Stridefield",
+      "weight_g": 980,
+      "material": "TPE foam and polyester",
+      "warranty": "12 months",
+      "specification": "10 mm thick, folds into four panels",
+      "use_case": "Stretching and floor exercises",
+      "returns": "30 days for unused items",
+      "image": "/static/products/173.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 4,
+      "review": "Liked the cushioned design on my first use."
+    },
+    {
+      "id": 174,
+      "category": "home fitness",
+      "name": "Softstep folding exercise mat",
+      "color": "orange",
+      "price": 1880,
+      "features": [
+        "cushioned",
+        "low impact",
+        "foldable"
+      ],
+      "sizes": [],
+      "stock": 12,
+      "sku": "TG-174",
+      "brand": "Stridefield",
+      "weight_g": 980,
+      "material": "TPE foam and polyester",
+      "warranty": "12 months",
+      "specification": "10 mm thick, folds into four panels",
+      "use_case": "Stretching and floor exercises",
+      "returns": "30 days for unused items",
+      "image": "/static/products/174.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 5,
+      "review": "Liked the cushioned design on my first use."
+    },
+    {
+      "id": 175,
+      "category": "home fitness",
+      "name": "Softstep folding exercise mat",
+      "color": "grey",
+      "price": 1980,
+      "features": [
+        "cushioned",
+        "low impact",
+        "foldable"
+      ],
+      "sizes": [],
+      "stock": 0,
+      "sku": "TG-175",
+      "brand": "Stridefield",
+      "weight_g": 980,
+      "material": "TPE foam and polyester",
+      "warranty": "12 months",
+      "specification": "10 mm thick, folds into four panels",
+      "use_case": "Stretching and floor exercises",
+      "returns": "30 days for unused items",
+      "image": "/static/products/175.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 6,
+      "review": "Liked the cushioned design on my first use."
+    },
+    {
+      "id": 176,
+      "category": "home fitness",
+      "name": "Flex Loop fabric band set",
+      "color": "black",
+      "price": 990,
+      "features": [
+        "beginner",
+        "low impact",
+        "latex free"
+      ],
+      "sizes": [],
+      "stock": 3,
+      "sku": "TG-176",
+      "brand": "Stridefield",
+      "weight_g": 310,
+      "material": "Polyester and elastane",
+      "warranty": "12 months",
+      "specification": "Three levels, listed as latex-free",
+      "use_case": "Introductory strength and mobility",
+      "returns": "30 days for unused items",
+      "image": "/static/products/176.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 2,
+      "review": "Liked the beginner design on my first use."
+    },
+    {
+      "id": 177,
+      "category": "home fitness",
+      "name": "Flex Loop fabric band set",
+      "color": "navy",
+      "price": 1090,
+      "features": [
+        "beginner",
+        "low impact",
+        "latex free"
+      ],
+      "sizes": [],
+      "stock": 4,
+      "sku": "TG-177",
+      "brand": "Stridefield",
+      "weight_g": 310,
+      "material": "Polyester and elastane",
+      "warranty": "12 months",
+      "specification": "Three levels, listed as latex-free",
+      "use_case": "Introductory strength and mobility",
+      "returns": "30 days for unused items",
+      "image": "/static/products/177.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 3,
+      "review": "Liked the beginner design on my first use."
+    },
+    {
+      "id": 178,
+      "category": "home fitness",
+      "name": "Flex Loop fabric band set",
+      "color": "olive",
+      "price": 1190,
+      "features": [
+        "beginner",
+        "low impact",
+        "latex free"
+      ],
+      "sizes": [],
+      "stock": 5,
+      "sku": "TG-178",
+      "brand": "Stridefield",
+      "weight_g": 310,
+      "material": "Polyester and elastane",
+      "warranty": "12 months",
+      "specification": "Three levels, listed as latex-free",
+      "use_case": "Introductory strength and mobility",
+      "returns": "30 days for unused items",
+      "image": "/static/products/178.png",
+      "regions": [
+        "north",
+        "west",
+        "south",
+        "east"
+      ],
+      "delivery_days": 4,
+      "review": "Liked the beginner design on my first use."
+    },
+    {
+      "id": 179,
+      "category": "home fitness",
+      "name": "Flex Loop fabric band set",
+      "color": "orange",
+      "price": 1290,
+      "features": [
+        "beginner",
+        "low impact",
+        "latex free"
+      ],
+      "sizes": [],
+      "stock": 6,
+      "sku": "TG-179",
+      "brand": "Stridefield",
+      "weight_g": 310,
+      "material": "Polyester and elastane",
+      "warranty": "12 months",
+      "specification": "Three levels, listed as latex-free",
+      "use_case": "Introductory strength and mobility",
+      "returns": "30 days for unused items",
+      "image": "/static/products/179.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 5,
+      "review": "Liked the beginner design on my first use."
+    },
+    {
+      "id": 180,
+      "category": "home fitness",
+      "name": "Flex Loop fabric band set",
+      "color": "grey",
+      "price": 1390,
+      "features": [
+        "beginner",
+        "low impact",
+        "latex free"
+      ],
+      "sizes": [],
+      "stock": 0,
+      "sku": "TG-180",
+      "brand": "Stridefield",
+      "weight_g": 310,
+      "material": "Polyester and elastane",
+      "warranty": "12 months",
+      "specification": "Three levels, listed as latex-free",
+      "use_case": "Introductory strength and mobility",
+      "returns": "30 days for unused items",
+      "image": "/static/products/180.png",
+      "regions": [
+        "north",
+        "west"
+      ],
+      "delivery_days": 6,
+      "review": "Liked the beginner design on my first use."
+    }
+  ]
+}

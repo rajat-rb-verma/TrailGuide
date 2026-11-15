@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Trailguide · Outdoor Gear Finder</title>
+<link rel="stylesheet" href="/static/styles.css">
+<script src="/static/chat.js" defer></script>
+</head>
+<body>
+<div class="layout">
+<aside class="rail">
+  <a href="/" class="brand"><span class="mark" aria-hidden="true">↗</span> Trailguide</a>
+  <div class="rail-content">
+    <a href="/" class="home-link">← Home</a>
+    <button id="new" type="button">＋ &nbsp; New session</button>
+    <h2>Saved sessions</h2>
+    <nav id="sessions" aria-label="Saved sessions"></nav>
+  </div>
+</aside>
+<main>
+  <header class="hero">
+    <div>
+      <p class="eyebrow">Outdoor & fitness gear</p>
+      <h1>Find your<br>next piece of kit.</h1>
+      <p>Tell us what you need, compare the best matches, and ask about any detail.</p>
+    </div>
+    <img src="/static/products/043.png" alt="" width="480" height="320">
+  </header>
+  <section class="browse" aria-labelledby="browse-title">
+    <h2 id="browse-title">Shop by category</h2>
+    <nav id="categories" aria-label="Product categories"></nav>
+  </section>
+  <section id="thread" aria-label="Chat history" aria-live="polite"></section>
+  <div class="composer">
+    <div id="focus" hidden><span id="focused-name"></span><button id="clear-focus" type="button" aria-label="Clear selected product">×</button></div>
+    <div id="status" role="status"></div>
+    <form>
+      <input id="message" aria-label="Shopping request" placeholder="Describe what you need…" autocomplete="off" maxlength="2000" required>
+      <button id="voice" type="button" aria-label="Dictate a shopping question" aria-pressed="false">🎙 <span>Dictate</span></button>
+      <button id="send">Send <span aria-hidden="true">↗</span></button>
+    </form>
+  </div>
+</main>
+</div>
+</body>
+</html>
