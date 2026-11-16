@@ -1,12 +1,29 @@
 # TrailGuide
 
-TrailGuide is a local conversational shopping assistant for outdoor and fitness gear. It was built for **PS-12, Agentic AI & Enterprise Automation**. Describe what you need, refine your requirements across turns, and compare up to three catalog products. Each result explains how it fits. When no product meets every requirement, the assistant shows the closest available alternatives and identifies the trade-offs.
+**TrailGuide is a conversational shopping assistant for outdoor and fitness gear.** It was built for **PS-12** in Agentic AI & Enterprise Automation. A shopper can say “I need a light backpack under ₹3,000,” add a weight limit or colour in a later message, and see up to three products with a side-by-side comparison. If nothing meets every requirement, TrailGuide can suggest the closest available options and explain the trade-off for each one.
 
-## Run locally
+[Quick start](#quick-start) · [Example conversations](#example-conversations) · [Architecture](#architecture) · [Dataset](#dataset) · [Tests](#tests)
 
-**Requirements:** Python 3.10 or later and a web browser. The default workflow runs locally without an API key.
+## What it does
 
-From the repository root on Windows PowerShell:
+- **Build a search through chat.** Start with a category or a written request. TrailGuide asks for details that affect the search, such as a budget or UK shoe size, and keeps the answers as the shopper adds more requirements.
+- **Compare products and understand the ranking.** See price, weight, materials, warranty, and other catalogue details. The comparison shows which requirements each product meets.
+- **Get help when there is no exact match.** If a requested colour is unavailable, for example, TrailGuide can show options in other colours and flag the difference on each result.
+- **Ask questions about products already shown.** Ask “What is the second one made of?” or select **Ask about this product** on a card. Follow-up answers use the product records.
+- **Reopen saved conversations.** The sidebar lists saved sessions. The **Agent decisions** panel shows what the workflow understood, which checks ran, and why it asked a question or displayed a result.
+
+TrailGuide runs locally with a fictional product catalogue. Its scope is product discovery before purchase. The core workflow uses rules for supported English requests and runs without an API key.
+
+## Quick start
+
+You need **Python 3.10 or later**, Git, and a web browser.
+
+```sh
+git clone https://github.com/rajat-rb-verma/TrailGuide.git
+cd TrailGuide
+```
+
+On **Windows PowerShell**:
 
 ```powershell
 python -m venv .venv
@@ -14,83 +31,109 @@ python -m venv .venv
 .\.venv\Scripts\python.exe -m uvicorn app:app --host 127.0.0.1 --port 8000
 ```
 
-On macOS or Linux, create the environment with `python3 -m venv .venv` and replace `.\.venv\Scripts\python.exe` with `.venv/bin/python` in the last two commands.
+On **macOS or Linux**:
 
-Open [http://127.0.0.1:8000](http://127.0.0.1:8000/). On first launch, TrailGuide creates `trailguide.sqlite3` and seeds its catalog. Sessions and agent traces are saved to this file across restarts. Click **Home** to return to the storefront and use the sidebar to reopen a session.
-
-## Try the demo
-
-| Scenario | What to enter | What to look for |
-| --- | --- | --- |
-| Clarification and comparison | **I need a backpack** → **Under ₹3,000** → **It should be light and weigh less than 2 kg** → **No** | The top result explains its weight and price. The comparison shows how each product meets the constraints. |
-| Fallback | Repeat the backpack search and add **Color should be red** before confirming. | The assistant states that red is unavailable and shows alternatives with the color trade-off. |
-| Required attribute and memory | **Waterproof hiking boots** → **9** → **Actually, under ₹3,500** → **No** | It asks for UK shoe size and retains size 9 after the budget changes. |
-| Product follow-up | After seeing results, ask **Compare #1 and #3 by material and warranty**, or click **Ask about this product**. | The answer uses the relevant products and facts recorded in the catalog. |
-
-Choose a category to start a scoped search. After the assistant asks whether you want to add anything else, say **No** or select **No, show matches**. Expand **Agent decisions** under a response to see which roles ran and what they decided.
-
-## Agent workflow
-
-| Agent | Responsibility |
-| --- | --- |
-| Query Ingestion | Normalizes the text or submitted voice transcript and records the session and turn. |
-| Intent & Constraint Extraction | Reads purchase intent, explicit requirements, and inferred preferences from supported phrasing. |
-| Ambiguity & Clarification | Asks for missing information and waits for the shopper to confirm before searching. |
-| Catalog Attribute Mapping | Maps shopping language to catalog categories and structured requirements. |
-| Candidate Retrieval | Retrieves in-stock candidates from SQLite and checks shipping eligibility. |
-| Ranking & Fit Scoring | Orders candidates by constraint fit, relevant preference and review signals, and price. |
-| Explanation Generation | Explains each result using specific catalog facts and reports any unmet requirements. |
-| Zero-Result & Fallback | Selects close alternatives and shows their trade-offs while retaining availability, size, and shipping eligibility. |
-| Session Memory | Carries confirmed requirements forward and updates them when the shopper changes direction. |
-| Orchestrator | Routes each turn to clarification, catalog search, product follow-up, or fallback. |
-
-The default interpretation is rule-based and covers supported catalog categories, attributes, and phrasing. Search, ranking, and displayed facts are grounded in SQLite.
-
-## Catalog and voice input
-
-The [bundled JSON export](data/trailguide-catalog.json) contains **180 synthetic listings from 36 product models** across hiking footwear, trekking poles, backpacks, camping gear, hydration, and home fitness. It includes INR prices, inventory, delivery regions and estimates, materials, weights, warranty, and specifications. Illustrations, reviews, prices, and stock levels are fictional demo data. The running app also offers a direct [catalog export](http://127.0.0.1:8000/api/catalog/download).
-
-**Dictate** uses the browser’s speech recognition and fills the composer for review before sending. It requires a compatible browser and microphone permission. The browser may use a remote speech provider, while the application receives the text you submit.
-
-### Optional Ollama integration
-
-If Ollama is running on the default local port and you already have a model installed, set `TRAILGUIDE_OLLAMA_MODEL` to that model’s name before starting Uvicorn:
-
-```powershell
-$env:TRAILGUIDE_OLLAMA_MODEL = 'qwen2.5:3b'
+```sh
+python3 -m venv .venv
+.venv/bin/python -m pip install -r requirements.txt
+.venv/bin/python -m uvicorn app:app --host 127.0.0.1 --port 8000
 ```
 
-The optional integration maps additional product follow-up phrasing to catalog fields. The response facts still come from SQLite. The standard demo runs without Ollama.
+Open [TrailGuide on localhost](http://127.0.0.1:8000/). On first launch the app creates and seeds `trailguide.sqlite3` in the project folder. It saves new chat turns to that file so you can reopen them after a restart. Click **Home** to return to the storefront or select a saved chat in the sidebar.
+
+## Example conversations
+
+Start a new session for each example. Send the messages in order. When the assistant asks whether you want to add anything else, type **No** or click **No, show matches**.
+
+| Scenario | Messages or actions | What to look for |
+| --- | --- | --- |
+| Clarification and session memory | **Waterproof hiking boots** → **9** → **Actually, under INR 3500** → **No** | The assistant asks for UK shoe size, then remembers size 9 and waterproofing when you add the budget. |
+| No exact match | **I need a backpack** → **Under 3000 rupees** → **also the weight should be light** → **the bag weight should be less than 2 kg** → **color should be red** → **No** | The assistant reports that red is unavailable for this request. The first alternative is a black 18 L daypack at ₹1,499 and 410 g. |
+| Compare products after search | **Backpacks under INR 4500** → **Skip** → **No** → **Compare #1 and #3 by material and warranty** | The follow-up answer uses the first and third products already displayed in the session. |
+
+## Architecture
+
+TrailGuide runs as one FastAPI application. FastAPI serves the browser interface and handles the session API. The Python workflow runs inside the same process and uses a local SQLite database.
+
+```mermaid
+flowchart LR
+    browser["Browser: chat, categories and comparison"]
+    subgraph app["Local FastAPI application"]
+        api["Storefront and session routes"]
+        workflow["Python Orchestrator and agent roles"]
+        api -->|"Message and saved context"| workflow
+        workflow -->|"Reply, products and agent decisions"| api
+    end
+    db[("SQLite: products, sessions and turns")]
+    model["Optional local Ollama"]
+    browser -->|"HTTP request"| api
+    api -->|"HTML or JSON response"| browser
+    api -->|"Load and save conversations"| db
+    workflow -->|"Read catalogue candidates"| db
+    workflow -.->|"Interpret supported product follow-ups"| model
+```
+
+### What happens when you send a message
+
+1. The API receives the message at `POST /api/sessions/{session_id}/turns` and loads the current shopping requirements and relevant products from earlier results.
+2. The workflow extracts any supported changes. If the turn is a product question, it can answer from the relevant catalogue record. If the search needs a missing detail or confirmation, it returns a question and records what it is waiting for.
+3. When the search is ready, the workflow retrieves in-stock candidates from the relevant categories, checks shipping eligibility when a region is given, and ranks candidates against the full request. Exact matches are shown first. When there are none, the fallback can show close alternatives with their trade-offs.
+4. The API saves the message, reply, and agent decisions in `turns`, updates the current requirements in `sessions`, and returns the response to the browser.
+
+### Agent roles
+
+| Role | What it does |
+| --- | --- |
+| Query Ingestion | Normalizes text and records the session, turn, and input source. |
+| Intent & Constraint Extraction | Reads the product category, requirements, and preferences from supported phrases. |
+| Ambiguity & Clarification | Asks for missing information and checks whether the shopper is ready to search. |
+| Catalog Attribute Mapping | Maps the request to product categories and catalogue fields. |
+| Candidate Retrieval | Looks up in-stock products and checks shipping eligibility. |
+| Ranking & Fit Scoring | Orders candidates by requirement fit, preferences, and price. |
+| Explanation Generation | Uses catalogue facts to explain matches and answer product questions. |
+| Zero-Result & Fallback | Looks for close alternatives and shows what each one misses. |
+| Session Memory | Carries earlier requirements forward and applies changes for the current turn. |
+| Orchestrator | Chooses which route each message takes and returns the response and decision trace. |
+
+## Dataset
+
+The [catalogue JSON](data/trailguide-catalog.json) contains **180 synthetic listings from 36 product models** in six categories: hiking footwear, trekking poles, backpacks, camping gear, hydration, and home fitness. It includes INR prices, stock, shipping regions, delivery estimates, weight, materials, warranty, and other product details. The illustrations and reviews are sample data.
+
+The backend seeds SQLite from [catalogue code](trailguide/catalog.py) and [model specifications](trailguide/specs.py). The JSON is an export of that catalogue. You can also download the current catalogue from the running app at [the local catalogue endpoint](http://127.0.0.1:8000/api/catalog/download).
+
+### SQLite tables
+
+| Table | Purpose |
+| --- | --- |
+| `products` | Stores listing IDs, categories, stock, and detailed product records. |
+| `sessions` | Stores each chat’s title, current shopping requirements, and pending clarification. |
+| `turns` | Stores each message and its result, including the reply, products shown, and agent decisions. Each turn belongs to a session. |
+
+## Optional features
+
+- **Voice input.** Select **Dictate** in a compatible browser and allow microphone access. Review the transcript in the message box before sending. Your browser may use a remote speech service. TrailGuide receives the submitted text.
+- **Local Ollama.** If Ollama is running on its default port, set `TRAILGUIDE_OLLAMA_MODEL` to a model you already have installed before starting Uvicorn. It helps map additional follow-up wording to existing product fields. The displayed facts still come from SQLite. For example, in PowerShell use `$env:TRAILGUIDE_OLLAMA_MODEL = 'qwen2.5:3b'`.
 
 ## Project structure
 
-```text
-app.py                       FastAPI routes and SQLite persistence
-trailguide/
-  agents.py                  Agent roles, ranking, and orchestration
-  catalog.py                 Product lines and synthetic variants
-  specs.py                   Model specifications
-  followups.py               Product references and catalog-backed answers
-  model.py                   Optional Ollama question planner
-  illustrations.py           Optional Pillow-based illustration generator
-templates/index.html         Jinja storefront
-static/
-  chat.js                    Chat, navigation, speech input, and comparisons
-  styles.css                 Responsive storefront styles
-  products/                  Local product images
-data/trailguide-catalog.json Bundled catalog export
-tests/test_workflows.py      Shopping workflow regression tests
-requirements.txt             Runtime dependencies
+| Path | What you’ll find |
+| --- | --- |
+| [`app.py`](app.py) | FastAPI routes, database initialization, and session persistence |
+| [`trailguide/agents.py`](trailguide/agents.py) | Agent roles, routing, search, ranking, and fallback |
+| [`trailguide/followups.py`](trailguide/followups.py) | Catalogue-backed answers about displayed products |
+| [`trailguide/model.py`](trailguide/model.py) | Optional Ollama question planner |
+| [`templates/index.html`](templates/index.html) | Storefront template |
+| [`static/`](static/) | Chat JavaScript, styles, and illustrations |
+| [`data/`](data/) | Portable catalogue export |
+| [`tests/test_workflows.py`](tests/test_workflows.py) | Automated shopping workflow checks |
+| [`requirements.txt`](requirements.txt) | Python runtime dependencies |
+
+## Tests
+
+With the virtual environment active, run:
+
+```sh
+python -m unittest discover -s tests -v
 ```
 
-The frontend uses Jinja, HTML, CSS, and JavaScript. The backend uses Python, FastAPI, Pydantic, and SQLite. Product images are included. To regenerate them, install Pillow in your development environment and run `python -m trailguide.illustrations`.
-
-## Run tests
-
-After installing the requirements:
-
-```powershell
-.\.venv\Scripts\python.exe -m unittest discover -s tests -v
-```
-
-The tests cover clarification and confirmation, session memory, filtering, ranking, fallback, product follow-ups, and catalog and image consistency.
+The nine workflow tests cover clarification, session memory, category searches, delivery and stock filters, follow-up questions, fallback behaviour, and catalogue and image consistency.
